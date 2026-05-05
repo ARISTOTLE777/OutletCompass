@@ -1,0 +1,6748 @@
+[
+  {
+    "id": 1,
+    "name": "DLF Mall of India",
+    "city": "Noida",
+    "area": "Sector 18",
+    "address": "A-3, Sector 18, Noida, Uttar Pradesh 201301",
+    "coordinates": {
+      "lat": 28.5706,
+      "lng": 77.3219
+    },
+    "totalFloors": 5,
+    "parking": true,
+    "rating": 4.5,
+    "timings": "10:00 AM - 11:00 PM",
+    "type": "Mall",
+    "outlets": [
+      {
+        "outletId": "MOI-F-001",
+        "name": "McDonald's",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-01",
+        "rating": 4.1,
+        "priceRange": "₹200-₹500",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-5678",
+        "tags": [
+          "Burgers",
+          "Fries",
+          "McSpicy",
+          "Soft Drinks",
+          "Happy Meal"
+        ]
+      },
+      {
+        "outletId": "MOI-F-002",
+        "name": "KFC",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-02",
+        "rating": 4.0,
+        "priceRange": "₹250-₹600",
+        "timings": "10AM-11PM",
+        "phone": "1800-2345-6789",
+        "tags": [
+          "Fried Chicken",
+          "Zinger Burger",
+          "Popcorn Chicken",
+          "Hot Wings"
+        ]
+      },
+      {
+        "outletId": "MOI-F-003",
+        "name": "Burger King",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-03",
+        "rating": 4.0,
+        "priceRange": "₹200-₹600",
+        "timings": "10AM-11PM",
+        "phone": "1800-3456-7890",
+        "tags": [
+          "Whopper",
+          "Crispy Veg",
+          "Wraps",
+          "Onion Rings"
+        ]
+      },
+      {
+        "outletId": "MOI-F-004",
+        "name": "Pizza Hut",
+        "category": "Food",
+        "subcategory": "Pizza",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-04",
+        "rating": 4.0,
+        "priceRange": "₹400-₹900",
+        "timings": "10AM-11PM",
+        "phone": "1800-4567-8901",
+        "tags": [
+          "Pan Pizza",
+          "Stuffed Crust",
+          "Pasta",
+          "Garlic Bread"
+        ]
+      },
+      {
+        "outletId": "MOI-F-005",
+        "name": "Domino's Pizza",
+        "category": "Food",
+        "subcategory": "Pizza",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-05",
+        "rating": 4.2,
+        "priceRange": "₹300-₹700",
+        "timings": "10AM-11PM",
+        "phone": "1800-5678-9012",
+        "tags": [
+          "Cheese Burst",
+          "Farm House",
+          "Pepperoni",
+          "Lava Cake"
+        ]
+      },
+      {
+        "outletId": "MOI-F-006",
+        "name": "Subway",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-06",
+        "rating": 3.9,
+        "priceRange": "₹200-₹500",
+        "timings": "10AM-11PM",
+        "phone": "1800-6789-0123",
+        "tags": [
+          "Subs",
+          "Wraps",
+          "Salads",
+          "Cookies",
+          "Healthy"
+        ]
+      },
+      {
+        "outletId": "MOI-F-007",
+        "name": "Starbucks",
+        "category": "Food",
+        "subcategory": "Cafe",
+        "floor": "Ground Floor",
+        "shopNo": "G-08",
+        "rating": 4.5,
+        "priceRange": "₹300-₹700",
+        "timings": "8AM-11PM",
+        "phone": "1800-7890-1234",
+        "tags": [
+          "Coffee",
+          "Cappuccino",
+          "Frappe",
+          "Pastries",
+          "Cold Brew"
+        ]
+      },
+      {
+        "outletId": "MOI-F-008",
+        "name": "Barista",
+        "category": "Food",
+        "subcategory": "Cafe",
+        "floor": "First Floor",
+        "shopNo": "F1-12",
+        "rating": 4.0,
+        "priceRange": "₹200-₹500",
+        "timings": "10AM-11PM",
+        "phone": "1800-8901-2345",
+        "tags": [
+          "Espresso",
+          "Latte",
+          "Muffins",
+          "Cafe",
+          "Cold Coffee"
+        ]
+      },
+      {
+        "outletId": "MOI-F-009",
+        "name": "Chaayos",
+        "category": "Food",
+        "subcategory": "Cafe",
+        "floor": "Ground Floor",
+        "shopNo": "G-15",
+        "rating": 4.4,
+        "priceRange": "₹100-₹350",
+        "timings": "8AM-11PM",
+        "phone": "1800-9012-3456",
+        "tags": [
+          "Masala Chai",
+          "Ginger Tea",
+          "Samosa",
+          "Maggi",
+          "Snacks"
+        ]
+      },
+      {
+        "outletId": "MOI-F-010",
+        "name": "Barbeque Nation",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-01",
+        "rating": 4.4,
+        "priceRange": "₹1200-₹2500",
+        "timings": "12PM-11PM",
+        "phone": "011-40536666",
+        "tags": [
+          "Barbeque",
+          "Buffet",
+          "North Indian",
+          "Tandoor",
+          "Live Grill"
+        ]
+      },
+      {
+        "outletId": "MOI-F-011",
+        "name": "Mainland China",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-02",
+        "rating": 4.3,
+        "priceRange": "₹1000-₹2500",
+        "timings": "12PM-11PM",
+        "phone": "011-40512345",
+        "tags": [
+          "Chinese",
+          "Dim Sum",
+          "Dragon Chicken",
+          "Noodles",
+          "Wok"
+        ]
+      },
+      {
+        "outletId": "MOI-F-012",
+        "name": "The Beer Cafe",
+        "category": "Food",
+        "subcategory": "Bar & Restaurant",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-03",
+        "rating": 4.2,
+        "priceRange": "₹800-₹2000",
+        "timings": "12PM-11PM",
+        "phone": "011-40523456",
+        "tags": [
+          "Craft Beer",
+          "Pub Food",
+          "Nachos",
+          "Sliders",
+          "Nightlife"
+        ]
+      },
+      {
+        "outletId": "MOI-F-013",
+        "name": "Wow! Momo",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-07",
+        "rating": 4.2,
+        "priceRange": "₹100-₹350",
+        "timings": "10AM-11PM",
+        "phone": "1800-0123-4567",
+        "tags": [
+          "Steamed Momos",
+          "Fried Momos",
+          "Thukpa",
+          "Chilli Momos",
+          "Street Food"
+        ]
+      },
+      {
+        "outletId": "MOI-F-014",
+        "name": "Theobroma",
+        "category": "Food",
+        "subcategory": "Bakery",
+        "floor": "Ground Floor",
+        "shopNo": "G-22",
+        "rating": 4.5,
+        "priceRange": "₹200-₹800",
+        "timings": "10AM-11PM",
+        "phone": "022-23456789",
+        "tags": [
+          "Brownies",
+          "Cakes",
+          "Pastries",
+          "Quiche",
+          "Coffee",
+          "Desserts"
+        ]
+      },
+      {
+        "outletId": "MOI-F-015",
+        "name": "Haldiram's",
+        "category": "Food",
+        "subcategory": "Indian Snacks",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-08",
+        "rating": 4.3,
+        "priceRange": "₹100-₹500",
+        "timings": "10AM-11PM",
+        "phone": "011-23456789",
+        "tags": [
+          "Namkeen",
+          "Sweets",
+          "Thali",
+          "Puri",
+          "Samosa",
+          "Rasgulla"
+        ]
+      },
+      {
+        "outletId": "MOI-F-016",
+        "name": "Baskin Robbins",
+        "category": "Food",
+        "subcategory": "Ice Cream",
+        "floor": "Ground Floor",
+        "shopNo": "G-28",
+        "rating": 4.2,
+        "priceRange": "₹100-₹400",
+        "timings": "10AM-11PM",
+        "phone": "1800-1122-3344",
+        "tags": [
+          "Ice Cream",
+          "Scoops",
+          "Shakes",
+          "Sundae",
+          "Waffle Cone"
+        ]
+      },
+      {
+        "outletId": "MOI-F-017",
+        "name": "Dunkin Donuts",
+        "category": "Food",
+        "subcategory": "Bakery & Cafe",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-09",
+        "rating": 3.9,
+        "priceRange": "₹150-₹500",
+        "timings": "10AM-11PM",
+        "phone": "1800-2233-4455",
+        "tags": [
+          "Donuts",
+          "Coffee",
+          "Bagels",
+          "Hash Browns",
+          "Munchkins"
+        ]
+      },
+      {
+        "outletId": "MOI-F-018",
+        "name": "Biryani By Kilo",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-10",
+        "rating": 4.4,
+        "priceRange": "₹400-₹900",
+        "timings": "12PM-11PM",
+        "phone": "1800-3344-5566",
+        "tags": [
+          "Dum Biryani",
+          "Mughlai",
+          "Korma",
+          "Raita",
+          "Lucknowi Biryani"
+        ]
+      },
+      {
+        "outletId": "MOI-F-019",
+        "name": "Punjabi Dhaba Corner",
+        "category": "Food",
+        "subcategory": "Local Restaurant",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-11",
+        "rating": 4.1,
+        "priceRange": "₹150-₹400",
+        "timings": "10AM-11PM",
+        "phone": "9876543210",
+        "tags": [
+          "Butter Naan",
+          "Dal Makhani",
+          "Paneer Tikka",
+          "Lassi",
+          "Thali",
+          "Local Favourite"
+        ]
+      },
+      {
+        "outletId": "MOI-F-020",
+        "name": "South Indian Express",
+        "category": "Food",
+        "subcategory": "South Indian",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-12",
+        "rating": 4.0,
+        "priceRange": "₹100-₹350",
+        "timings": "10AM-11PM",
+        "phone": "9876543211",
+        "tags": [
+          "Masala Dosa",
+          "Idli",
+          "Vada",
+          "Rasam",
+          "Filter Coffee",
+          "Uttapam"
+        ]
+      },
+      {
+        "outletId": "MOI-F-021",
+        "name": "Moti Mahal Delux",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-04",
+        "rating": 4.2,
+        "priceRange": "₹600-₹1500",
+        "timings": "12PM-11PM",
+        "phone": "011-33445566",
+        "tags": [
+          "Butter Chicken",
+          "Tandoori",
+          "Mughlai",
+          "Dal Fry",
+          "Naan"
+        ]
+      },
+      {
+        "outletId": "MOI-F-022",
+        "name": "Nando's",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-05",
+        "rating": 4.3,
+        "priceRange": "₹700-₹1500",
+        "timings": "11AM-11PM",
+        "phone": "011-44556677",
+        "tags": [
+          "PERi-PERi Chicken",
+          "Grilled",
+          "Portuguese",
+          "Burgers",
+          "Wings"
+        ]
+      },
+      {
+        "outletId": "MOI-F-023",
+        "name": "Natural Ice Cream",
+        "category": "Food",
+        "subcategory": "Ice Cream",
+        "floor": "Ground Floor",
+        "shopNo": "G-32",
+        "rating": 4.5,
+        "priceRange": "₹80-₹300",
+        "timings": "10AM-11PM",
+        "phone": "022-34567890",
+        "tags": [
+          "Natural Flavours",
+          "Sitaphal",
+          "Tender Coconut",
+          "Mango",
+          "Fruit Based"
+        ]
+      },
+      {
+        "outletId": "MOI-F-024",
+        "name": "Amul Ice Cream Parlour",
+        "category": "Food",
+        "subcategory": "Ice Cream",
+        "floor": "Ground Floor",
+        "shopNo": "G-33",
+        "rating": 4.3,
+        "priceRange": "₹50-₹250",
+        "timings": "10AM-11PM",
+        "phone": "1800-258-3333",
+        "tags": [
+          "Vanilla",
+          "Chocolate",
+          "Cassata",
+          "Shakes",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "MOI-F-025",
+        "name": "Kake Di Hatti",
+        "category": "Food",
+        "subcategory": "Local Restaurant",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-13",
+        "rating": 4.2,
+        "priceRange": "₹100-₹350",
+        "timings": "10AM-11PM",
+        "phone": "9876543212",
+        "tags": [
+          "Stuffed Paratha",
+          "Chole Bhature",
+          "Aloo Puri",
+          "Breakfast",
+          "Local Favourite"
+        ]
+      },
+      {
+        "outletId": "MOI-F-026",
+        "name": "Wok to Walk",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-14",
+        "rating": 3.9,
+        "priceRange": "₹300-₹700",
+        "timings": "10AM-11PM",
+        "phone": "9876543213",
+        "tags": [
+          "Noodles",
+          "Stir Fry",
+          "Chinese",
+          "Hakka",
+          "Instant"
+        ]
+      },
+      {
+        "outletId": "MOI-F-027",
+        "name": "Paradise Biryani",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-15",
+        "rating": 4.3,
+        "priceRange": "₹350-₹800",
+        "timings": "12PM-11PM",
+        "phone": "040-23456789",
+        "tags": [
+          "Hyderabadi Biryani",
+          "Mirchi Ka Salan",
+          "Raita",
+          "Haleem"
+        ]
+      },
+      {
+        "outletId": "MOI-F-028",
+        "name": "Kwality Walls Corner",
+        "category": "Food",
+        "subcategory": "Ice Cream Kiosk",
+        "floor": "All Floors",
+        "shopNo": "KIOSK-ICE-01",
+        "rating": 4.0,
+        "priceRange": "₹30-₹150",
+        "timings": "10AM-11PM",
+        "phone": "N/A",
+        "tags": [
+          "Cornetto",
+          "Feast",
+          "Magnum",
+          "Kulfi Bar",
+          "Quick Bite"
+        ]
+      },
+      {
+        "outletId": "MOI-F-029",
+        "name": "Rolls & Wraps Stall",
+        "category": "Food",
+        "subcategory": "Street Food Kiosk",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-KIOSK-01",
+        "rating": 3.8,
+        "priceRange": "₹60-₹200",
+        "timings": "10AM-11PM",
+        "phone": "N/A",
+        "tags": [
+          "Egg Roll",
+          "Paneer Roll",
+          "Chicken Roll",
+          "Frankie",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "MOI-F-030",
+        "name": "Fresh Juice Bar",
+        "category": "Food",
+        "subcategory": "Juice & Beverages Kiosk",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-JC-01",
+        "rating": 4.1,
+        "priceRange": "₹80-₹200",
+        "timings": "10AM-11PM",
+        "phone": "N/A",
+        "tags": [
+          "Fresh Juice",
+          "Smoothies",
+          "Coconut Water",
+          "Lemonade",
+          "Sugar Cane"
+        ]
+      },
+      {
+        "outletId": "MOI-C-001",
+        "name": "Zara",
+        "category": "Clothing",
+        "subcategory": "International Brand",
+        "floor": "Second Floor",
+        "shopNo": "F2-01",
+        "rating": 4.5,
+        "priceRange": "₹2000-₹15000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0001",
+        "tags": [
+          "Western Wear",
+          "Women",
+          "Men",
+          "International",
+          "Trendy",
+          "Formal"
+        ]
+      },
+      {
+        "outletId": "MOI-C-002",
+        "name": "H&M",
+        "category": "Clothing",
+        "subcategory": "International Brand",
+        "floor": "Second Floor",
+        "shopNo": "F2-02",
+        "rating": 4.3,
+        "priceRange": "₹999-₹6000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0002",
+        "tags": [
+          "Casual",
+          "Women",
+          "Men",
+          "Kids",
+          "Affordable International"
+        ]
+      },
+      {
+        "outletId": "MOI-C-003",
+        "name": "Uniqlo",
+        "category": "Clothing",
+        "subcategory": "International Brand",
+        "floor": "Second Floor",
+        "shopNo": "F2-03",
+        "rating": 4.4,
+        "priceRange": "₹999-₹5000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0003",
+        "tags": [
+          "Minimalist",
+          "Casual",
+          "Men",
+          "Women",
+          "HEATTECH",
+          "AIRism"
+        ]
+      },
+      {
+        "outletId": "MOI-C-004",
+        "name": "Mango",
+        "category": "Clothing",
+        "subcategory": "International Brand",
+        "floor": "Second Floor",
+        "shopNo": "F2-04",
+        "rating": 4.3,
+        "priceRange": "₹1500-₹12000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0004",
+        "tags": [
+          "Women",
+          "Western",
+          "Ethnic Fusion",
+          "Formal",
+          "Bags"
+        ]
+      },
+      {
+        "outletId": "MOI-C-005",
+        "name": "Louis Vuitton",
+        "category": "Clothing",
+        "subcategory": "Luxury",
+        "floor": "Ground Floor",
+        "shopNo": "G-LUX-01",
+        "rating": 4.8,
+        "priceRange": "₹50000+",
+        "timings": "10AM-10PM",
+        "phone": "011-40009001",
+        "tags": [
+          "Luxury",
+          "Designer",
+          "Bags",
+          "Accessories",
+          "Monogram"
+        ]
+      },
+      {
+        "outletId": "MOI-C-006",
+        "name": "Gucci",
+        "category": "Clothing",
+        "subcategory": "Luxury",
+        "floor": "Ground Floor",
+        "shopNo": "G-LUX-02",
+        "rating": 4.8,
+        "priceRange": "₹50000+",
+        "timings": "10AM-10PM",
+        "phone": "011-40009002",
+        "tags": [
+          "Luxury",
+          "Designer",
+          "Italian",
+          "GG Logo",
+          "Ready-to-Wear"
+        ]
+      },
+      {
+        "outletId": "MOI-C-007",
+        "name": "Levi's",
+        "category": "Clothing",
+        "subcategory": "Denim",
+        "floor": "First Floor",
+        "shopNo": "F1-05",
+        "rating": 4.2,
+        "priceRange": "₹1999-₹8000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0007",
+        "tags": [
+          "Jeans",
+          "Denim",
+          "Casual",
+          "Men",
+          "Women",
+          "511",
+          "501"
+        ]
+      },
+      {
+        "outletId": "MOI-C-008",
+        "name": "Van Heusen",
+        "category": "Clothing",
+        "subcategory": "Formal",
+        "floor": "First Floor",
+        "shopNo": "F1-08",
+        "rating": 4.2,
+        "priceRange": "₹1500-₹8000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0008",
+        "tags": [
+          "Formal Shirts",
+          "Men",
+          "Corporate",
+          "Trousers",
+          "Party Wear"
+        ]
+      },
+      {
+        "outletId": "MOI-C-009",
+        "name": "Allen Solly",
+        "category": "Clothing",
+        "subcategory": "Formal",
+        "floor": "First Floor",
+        "shopNo": "F1-10",
+        "rating": 4.1,
+        "priceRange": "₹1000-₹6000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0009",
+        "tags": [
+          "Smart Casual",
+          "Men",
+          "Women",
+          "Friday Dressing",
+          "Office"
+        ]
+      },
+      {
+        "outletId": "MOI-C-010",
+        "name": "Fabindia",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Third Floor",
+        "shopNo": "F3-05",
+        "rating": 4.4,
+        "priceRange": "₹800-₹8000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0010",
+        "tags": [
+          "Ethnic",
+          "Handloom",
+          "Organic",
+          "Kurta",
+          "Men",
+          "Women",
+          "Home Linen"
+        ]
+      },
+      {
+        "outletId": "MOI-C-011",
+        "name": "W (Aurelia)",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Third Floor",
+        "shopNo": "F3-06",
+        "rating": 4.2,
+        "priceRange": "₹799-₹5000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0011",
+        "tags": [
+          "Ethnic",
+          "Kurtas",
+          "Women",
+          "Fusion",
+          "Salwar Suits"
+        ]
+      },
+      {
+        "outletId": "MOI-C-012",
+        "name": "Biba",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Third Floor",
+        "shopNo": "F3-07",
+        "rating": 4.1,
+        "priceRange": "₹699-₹4000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0012",
+        "tags": [
+          "Ethnic",
+          "Salwar Kameez",
+          "Dupattas",
+          "Women",
+          "Festive"
+        ]
+      },
+      {
+        "outletId": "MOI-C-013",
+        "name": "Global Desi",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Third Floor",
+        "shopNo": "F3-08",
+        "rating": 4.0,
+        "priceRange": "₹999-₹5000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0013",
+        "tags": [
+          "Ethnic",
+          "Fusion",
+          "Women",
+          "Boho",
+          "Printed"
+        ]
+      },
+      {
+        "outletId": "MOI-C-014",
+        "name": "Pantaloons",
+        "category": "Clothing",
+        "subcategory": "Department Store",
+        "floor": "First Floor",
+        "shopNo": "F1-01",
+        "rating": 4.0,
+        "priceRange": "₹500-₹5000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0014",
+        "tags": [
+          "Men",
+          "Women",
+          "Kids",
+          "Ethnic",
+          "Western",
+          "Mix"
+        ]
+      },
+      {
+        "outletId": "MOI-C-015",
+        "name": "Max Fashion",
+        "category": "Clothing",
+        "subcategory": "Affordable Fashion",
+        "floor": "First Floor",
+        "shopNo": "F1-02",
+        "rating": 3.9,
+        "priceRange": "₹299-₹3000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0015",
+        "tags": [
+          "Affordable",
+          "Men",
+          "Women",
+          "Kids",
+          "Casual",
+          "Value"
+        ]
+      },
+      {
+        "outletId": "MOI-C-016",
+        "name": "Wrogn",
+        "category": "Clothing",
+        "subcategory": "Youth Fashion",
+        "floor": "First Floor",
+        "shopNo": "F1-14",
+        "rating": 4.1,
+        "priceRange": "₹799-₹4000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0016",
+        "tags": [
+          "Youth",
+          "Casual",
+          "Men",
+          "Streetwear",
+          "Virat Kohli"
+        ]
+      },
+      {
+        "outletId": "MOI-C-017",
+        "name": "Raymond",
+        "category": "Clothing",
+        "subcategory": "Formal & Fabric",
+        "floor": "Third Floor",
+        "shopNo": "F3-02",
+        "rating": 4.2,
+        "priceRange": "₹2000-₹30000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0017",
+        "tags": [
+          "Suits",
+          "Blazers",
+          "Formal",
+          "Fabric",
+          "Men",
+          "Custom Tailoring"
+        ]
+      },
+      {
+        "outletId": "MOI-C-018",
+        "name": "Peter England",
+        "category": "Clothing",
+        "subcategory": "Formal",
+        "floor": "First Floor",
+        "shopNo": "F1-16",
+        "rating": 4.0,
+        "priceRange": "₹999-₹5000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0018",
+        "tags": [
+          "Formal Shirts",
+          "Men",
+          "Affordable Formal",
+          "Trousers"
+        ]
+      },
+      {
+        "outletId": "MOI-C-019",
+        "name": "United Colors of Benetton",
+        "category": "Clothing",
+        "subcategory": "International Brand",
+        "floor": "Second Floor",
+        "shopNo": "F2-08",
+        "rating": 4.0,
+        "priceRange": "₹1500-₹8000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0019",
+        "tags": [
+          "Colorful",
+          "Casual",
+          "Men",
+          "Women",
+          "Kids",
+          "Italian"
+        ]
+      },
+      {
+        "outletId": "MOI-C-020",
+        "name": "Spykar",
+        "category": "Clothing",
+        "subcategory": "Denim",
+        "floor": "First Floor",
+        "shopNo": "F1-18",
+        "rating": 3.9,
+        "priceRange": "₹1299-₹5000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0020",
+        "tags": [
+          "Denim",
+          "Jeans",
+          "Youth",
+          "Men",
+          "Casual"
+        ]
+      },
+      {
+        "outletId": "MOI-C-021",
+        "name": "AND",
+        "category": "Clothing",
+        "subcategory": "Western Wear",
+        "floor": "Second Floor",
+        "shopNo": "F2-12",
+        "rating": 4.1,
+        "priceRange": "₹1200-₹7000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0021",
+        "tags": [
+          "Western",
+          "Women",
+          "Dresses",
+          "Formal",
+          "Fusion"
+        ]
+      },
+      {
+        "outletId": "MOI-C-022",
+        "name": "Rare Rabbit",
+        "category": "Clothing",
+        "subcategory": "Premium Casual",
+        "floor": "Second Floor",
+        "shopNo": "F2-15",
+        "rating": 4.3,
+        "priceRange": "₹1500-₹8000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0022",
+        "tags": [
+          "Premium",
+          "Casual",
+          "Men",
+          "Minimalist",
+          "Smart"
+        ]
+      },
+      {
+        "outletId": "MOI-C-023",
+        "name": "Lee",
+        "category": "Clothing",
+        "subcategory": "Denim",
+        "floor": "First Floor",
+        "shopNo": "F1-22",
+        "rating": 4.0,
+        "priceRange": "₹1500-₹5000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0023",
+        "tags": [
+          "Denim",
+          "Jeans",
+          "Casual",
+          "Men",
+          "Women",
+          "Lee Cooper"
+        ]
+      },
+      {
+        "outletId": "MOI-C-024",
+        "name": "Tommy Hilfiger",
+        "category": "Clothing",
+        "subcategory": "Premium International",
+        "floor": "Second Floor",
+        "shopNo": "F2-18",
+        "rating": 4.4,
+        "priceRange": "₹3000-₹20000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0024",
+        "tags": [
+          "American Style",
+          "Premium",
+          "Men",
+          "Women",
+          "Polo",
+          "Classic"
+        ]
+      },
+      {
+        "outletId": "MOI-C-025",
+        "name": "Calvin Klein",
+        "category": "Clothing",
+        "subcategory": "Premium International",
+        "floor": "Second Floor",
+        "shopNo": "F2-20",
+        "rating": 4.4,
+        "priceRange": "₹3000-₹18000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0025",
+        "tags": [
+          "Premium",
+          "Denim",
+          "Men",
+          "Women",
+          "Underwear",
+          "Minimalist"
+        ]
+      },
+      {
+        "outletId": "MOI-C-026",
+        "name": "Reebok Classic Store",
+        "category": "Clothing",
+        "subcategory": "Sports Apparel",
+        "floor": "First Floor",
+        "shopNo": "F1-26",
+        "rating": 4.1,
+        "priceRange": "₹1500-₹8000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0026",
+        "tags": [
+          "Sports",
+          "Athleisure",
+          "Men",
+          "Women",
+          "Training",
+          "Classic"
+        ]
+      },
+      {
+        "outletId": "MOI-C-027",
+        "name": "Styli",
+        "category": "Clothing",
+        "subcategory": "Affordable Fashion",
+        "floor": "Third Floor",
+        "shopNo": "F3-14",
+        "rating": 3.8,
+        "priceRange": "₹499-₹3000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0027",
+        "tags": [
+          "Trendy",
+          "Affordable",
+          "Women",
+          "Tops",
+          "Dresses"
+        ]
+      },
+      {
+        "outletId": "MOI-C-028",
+        "name": "Anita Dongre",
+        "category": "Clothing",
+        "subcategory": "Designer Ethnic",
+        "floor": "Third Floor",
+        "shopNo": "F3-01",
+        "rating": 4.6,
+        "priceRange": "₹5000-₹80000",
+        "timings": "10AM-10PM",
+        "phone": "022-45678901",
+        "tags": [
+          "Designer",
+          "Bridal",
+          "Ethnic",
+          "Luxury",
+          "Wedding",
+          "Fusion"
+        ]
+      },
+      {
+        "outletId": "MOI-C-029",
+        "name": "Jockey Store",
+        "category": "Clothing",
+        "subcategory": "Innerwear & Loungewear",
+        "floor": "First Floor",
+        "shopNo": "F1-30",
+        "rating": 4.3,
+        "priceRange": "₹299-₹2000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0029",
+        "tags": [
+          "Innerwear",
+          "Loungewear",
+          "Men",
+          "Women",
+          "Sports Bra",
+          "Athleisure"
+        ]
+      },
+      {
+        "outletId": "MOI-C-030",
+        "name": "Roadster Life Co.",
+        "category": "Clothing",
+        "subcategory": "Youth Fashion",
+        "floor": "First Floor",
+        "shopNo": "F1-32",
+        "rating": 3.8,
+        "priceRange": "₹499-₹3000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-0030",
+        "tags": [
+          "Casual",
+          "Youth",
+          "Men",
+          "Women",
+          "Affordable",
+          "Trendy"
+        ]
+      },
+      {
+        "outletId": "MOI-S-001",
+        "name": "Nike",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-40",
+        "rating": 4.4,
+        "priceRange": "₹2500-₹18000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1001",
+        "tags": [
+          "Running",
+          "Air Max",
+          "Jordan",
+          "Men",
+          "Women",
+          "Sports",
+          "Sneakers"
+        ]
+      },
+      {
+        "outletId": "MOI-S-002",
+        "name": "Adidas",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-42",
+        "rating": 4.3,
+        "priceRange": "₹2000-₹15000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1002",
+        "tags": [
+          "Ultraboost",
+          "Stan Smith",
+          "Sports",
+          "Casual",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "MOI-S-003",
+        "name": "Puma",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-44",
+        "rating": 4.3,
+        "priceRange": "₹2000-₹12000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1003",
+        "tags": [
+          "Sports",
+          "Running",
+          "Suede",
+          "Casual",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "MOI-S-004",
+        "name": "Reebok",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-46",
+        "rating": 4.1,
+        "priceRange": "₹1999-₹10000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1004",
+        "tags": [
+          "Training",
+          "Classic Leather",
+          "Men",
+          "Women",
+          "Sports"
+        ]
+      },
+      {
+        "outletId": "MOI-S-005",
+        "name": "Jimmy Choo",
+        "category": "Shoes",
+        "subcategory": "Luxury",
+        "floor": "Ground Floor",
+        "shopNo": "G-LUX-05",
+        "rating": 4.7,
+        "priceRange": "₹25000+",
+        "timings": "10AM-10PM",
+        "phone": "011-40009005",
+        "tags": [
+          "Luxury",
+          "Heels",
+          "Women",
+          "Designer",
+          "Stilettos",
+          "Bridal"
+        ]
+      },
+      {
+        "outletId": "MOI-S-006",
+        "name": "Skechers",
+        "category": "Shoes",
+        "subcategory": "Comfort",
+        "floor": "First Floor",
+        "shopNo": "F1-48",
+        "rating": 4.2,
+        "priceRange": "₹2500-₹9000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1006",
+        "tags": [
+          "Comfort",
+          "Memory Foam",
+          "Men",
+          "Women",
+          "Kids",
+          "Walking"
+        ]
+      },
+      {
+        "outletId": "MOI-S-007",
+        "name": "Clarks",
+        "category": "Shoes",
+        "subcategory": "Formal & Comfort",
+        "floor": "First Floor",
+        "shopNo": "F1-50",
+        "rating": 4.3,
+        "priceRange": "₹3500-₹15000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1007",
+        "tags": [
+          "Formal",
+          "Comfort",
+          "Men",
+          "Women",
+          "Leather",
+          "Office"
+        ]
+      },
+      {
+        "outletId": "MOI-S-008",
+        "name": "Woodland",
+        "category": "Shoes",
+        "subcategory": "Outdoor",
+        "floor": "First Floor",
+        "shopNo": "F1-52",
+        "rating": 4.2,
+        "priceRange": "₹2500-₹10000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1008",
+        "tags": [
+          "Trekking",
+          "Boots",
+          "Outdoor",
+          "Men",
+          "Leather",
+          "Waterproof"
+        ]
+      },
+      {
+        "outletId": "MOI-S-009",
+        "name": "Bata",
+        "category": "Shoes",
+        "subcategory": "General",
+        "floor": "Ground Floor",
+        "shopNo": "G-35",
+        "rating": 3.9,
+        "priceRange": "₹599-₹4000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1009",
+        "tags": [
+          "Formal",
+          "Casual",
+          "School Shoes",
+          "Men",
+          "Women",
+          "Kids",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "MOI-S-010",
+        "name": "Metro Shoes",
+        "category": "Shoes",
+        "subcategory": "Fashion Footwear",
+        "floor": "Ground Floor",
+        "shopNo": "G-38",
+        "rating": 4.0,
+        "priceRange": "₹999-₹5000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1010",
+        "tags": [
+          "Fashion",
+          "Heels",
+          "Sandals",
+          "Pumps",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "MOI-S-011",
+        "name": "Mochi Shoes",
+        "category": "Shoes",
+        "subcategory": "Fashion Footwear",
+        "floor": "Ground Floor",
+        "shopNo": "G-40",
+        "rating": 4.2,
+        "priceRange": "₹1500-₹7000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1011",
+        "tags": [
+          "Fashion",
+          "Heels",
+          "Wedges",
+          "Sandals",
+          "Women",
+          "Men"
+        ]
+      },
+      {
+        "outletId": "MOI-S-012",
+        "name": "Fila",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-54",
+        "rating": 3.9,
+        "priceRange": "₹1999-₹8000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1012",
+        "tags": [
+          "Sports",
+          "Sneakers",
+          "Disruptor",
+          "Men",
+          "Women",
+          "Chunky"
+        ]
+      },
+      {
+        "outletId": "MOI-S-013",
+        "name": "Red Tape",
+        "category": "Shoes",
+        "subcategory": "Formal",
+        "floor": "Ground Floor",
+        "shopNo": "G-42",
+        "rating": 4.0,
+        "priceRange": "₹1499-₹6000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1013",
+        "tags": [
+          "Formal",
+          "Casual",
+          "Men",
+          "Leather",
+          "Oxford",
+          "Derby"
+        ]
+      },
+      {
+        "outletId": "MOI-S-014",
+        "name": "Khadim's",
+        "category": "Shoes",
+        "subcategory": "Affordable",
+        "floor": "Ground Floor",
+        "shopNo": "G-44",
+        "rating": 3.8,
+        "priceRange": "₹499-₹3000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1014",
+        "tags": [
+          "Affordable",
+          "Casual",
+          "Kids",
+          "Women",
+          "Men",
+          "School"
+        ]
+      },
+      {
+        "outletId": "MOI-S-015",
+        "name": "Liberty Shoes",
+        "category": "Shoes",
+        "subcategory": "Indian Brand",
+        "floor": "Ground Floor",
+        "shopNo": "G-46",
+        "rating": 3.8,
+        "priceRange": "₹799-₹4500",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1015",
+        "tags": [
+          "Formal",
+          "Casual",
+          "Sports",
+          "Men",
+          "Women",
+          "Kids",
+          "Indian"
+        ]
+      },
+      {
+        "outletId": "MOI-S-016",
+        "name": "New Balance",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-56",
+        "rating": 4.3,
+        "priceRange": "₹5000-₹15000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1016",
+        "tags": [
+          "Running",
+          "574",
+          "990",
+          "Men",
+          "Women",
+          "Premium Sports"
+        ]
+      },
+      {
+        "outletId": "MOI-S-017",
+        "name": "Converse",
+        "category": "Shoes",
+        "subcategory": "Casual",
+        "floor": "First Floor",
+        "shopNo": "F1-58",
+        "rating": 4.2,
+        "priceRange": "₹2500-₹8000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1017",
+        "tags": [
+          "Chuck Taylor",
+          "Casual",
+          "Unisex",
+          "Canvas",
+          "Classic",
+          "Streetwear"
+        ]
+      },
+      {
+        "outletId": "MOI-S-018",
+        "name": "Vans",
+        "category": "Shoes",
+        "subcategory": "Casual",
+        "floor": "First Floor",
+        "shopNo": "F1-60",
+        "rating": 4.1,
+        "priceRange": "₹3000-₹10000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1018",
+        "tags": [
+          "Skate",
+          "Old Skool",
+          "Checkerboard",
+          "Casual",
+          "Unisex",
+          "Youth"
+        ]
+      },
+      {
+        "outletId": "MOI-S-019",
+        "name": "Catwalk",
+        "category": "Shoes",
+        "subcategory": "Women's Fashion",
+        "floor": "Ground Floor",
+        "shopNo": "G-48",
+        "rating": 3.9,
+        "priceRange": "₹1000-₹4000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-1019",
+        "tags": [
+          "Heels",
+          "Wedges",
+          "Women",
+          "Party",
+          "Fashion",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "MOI-S-020",
+        "name": "Shoe Repair & Cobbler Kiosk",
+        "category": "Shoes",
+        "subcategory": "Shoe Repair",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-SH-01",
+        "rating": 3.7,
+        "priceRange": "₹50-₹500",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Repair",
+          "Sole Replacement",
+          "Polish",
+          "Cobbler",
+          "Quick Fix"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-001",
+        "name": "Apple Store",
+        "category": "Shopping",
+        "subcategory": "Electronics",
+        "floor": "Ground Floor",
+        "shopNo": "G-04",
+        "rating": 4.7,
+        "priceRange": "₹20000+",
+        "timings": "10AM-11PM",
+        "phone": "1800-425-0744",
+        "tags": [
+          "iPhone",
+          "MacBook",
+          "iPad",
+          "AirPods",
+          "Apple Watch",
+          "iMac"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-002",
+        "name": "Croma",
+        "category": "Shopping",
+        "subcategory": "Electronics",
+        "floor": "Third Floor",
+        "shopNo": "F3-10",
+        "rating": 4.2,
+        "priceRange": "₹500-₹150000",
+        "timings": "10AM-11PM",
+        "phone": "1800-258-3636",
+        "tags": [
+          "Mobiles",
+          "Laptops",
+          "Cameras",
+          "Appliances",
+          "Gadgets",
+          "TVs"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-003",
+        "name": "Samsung SmartCafe",
+        "category": "Shopping",
+        "subcategory": "Electronics",
+        "floor": "Ground Floor",
+        "shopNo": "G-10",
+        "rating": 4.3,
+        "priceRange": "₹5000-₹200000",
+        "timings": "10AM-11PM",
+        "phone": "1800-407-7267",
+        "tags": [
+          "Galaxy",
+          "Fold",
+          "TVs",
+          "Refrigerators",
+          "Washing Machine"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-004",
+        "name": "Reliance Digital",
+        "category": "Shopping",
+        "subcategory": "Electronics",
+        "floor": "Third Floor",
+        "shopNo": "F3-12",
+        "rating": 4.1,
+        "priceRange": "₹500-₹100000",
+        "timings": "10AM-11PM",
+        "phone": "1860-258-1000",
+        "tags": [
+          "Mobiles",
+          "Laptops",
+          "ACs",
+          "Washing Machines",
+          "Sound Systems"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-005",
+        "name": "Nykaa",
+        "category": "Shopping",
+        "subcategory": "Beauty & Cosmetics",
+        "floor": "Ground Floor",
+        "shopNo": "G-20",
+        "rating": 4.3,
+        "priceRange": "₹200-₹10000",
+        "timings": "10AM-11PM",
+        "phone": "1800-267-9255",
+        "tags": [
+          "Makeup",
+          "Skincare",
+          "Haircare",
+          "Lipstick",
+          "Foundation",
+          "Perfume"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-006",
+        "name": "Bath & Body Works",
+        "category": "Shopping",
+        "subcategory": "Beauty & Personal Care",
+        "floor": "Ground Floor",
+        "shopNo": "G-24",
+        "rating": 4.4,
+        "priceRange": "₹500-₹5000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-2006",
+        "tags": [
+          "Body Lotion",
+          "Candles",
+          "Fragrance",
+          "Hand Cream",
+          "Gifts",
+          "American"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-007",
+        "name": "The Body Shop",
+        "category": "Shopping",
+        "subcategory": "Beauty & Personal Care",
+        "floor": "Ground Floor",
+        "shopNo": "G-26",
+        "rating": 4.4,
+        "priceRange": "₹400-₹5000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-2007",
+        "tags": [
+          "Skincare",
+          "Body Butter",
+          "Natural",
+          "Cruelty Free",
+          "Shea",
+          "Tea Tree"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-008",
+        "name": "Forest Essentials",
+        "category": "Shopping",
+        "subcategory": "Luxury Beauty",
+        "floor": "Ground Floor",
+        "shopNo": "G-LUX-08",
+        "rating": 4.5,
+        "priceRange": "₹1000-₹10000",
+        "timings": "10AM-11PM",
+        "phone": "011-40009008",
+        "tags": [
+          "Ayurvedic",
+          "Luxury Skincare",
+          "Natural",
+          "Kumkumadi",
+          "Gift Sets"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-009",
+        "name": "Hamleys",
+        "category": "Shopping",
+        "subcategory": "Toys",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-01",
+        "rating": 4.4,
+        "priceRange": "₹200-₹20000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-2009",
+        "tags": [
+          "Toys",
+          "LEGO",
+          "Board Games",
+          "Soft Toys",
+          "Kids",
+          "Remote Control"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-010",
+        "name": "Miniso",
+        "category": "Shopping",
+        "subcategory": "Lifestyle & Gifts",
+        "floor": "Ground Floor",
+        "shopNo": "G-30",
+        "rating": 4.2,
+        "priceRange": "₹99-₹2000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-2010",
+        "tags": [
+          "Lifestyle",
+          "Cute",
+          "Gifts",
+          "Accessories",
+          "Stationery",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-011",
+        "name": "Archies Gallery",
+        "category": "Shopping",
+        "subcategory": "Gifts & Cards",
+        "floor": "Ground Floor",
+        "shopNo": "G-34",
+        "rating": 3.9,
+        "priceRange": "₹100-₹3000",
+        "timings": "10AM-11PM",
+        "phone": "011-23456780",
+        "tags": [
+          "Greeting Cards",
+          "Soft Toys",
+          "Photo Frames",
+          "Gifts",
+          "Balloons",
+          "Birthday"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-012",
+        "name": "Crossword",
+        "category": "Shopping",
+        "subcategory": "Books & Stationery",
+        "floor": "Third Floor",
+        "shopNo": "F3-14",
+        "rating": 4.3,
+        "priceRange": "₹100-₹2000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-2012",
+        "tags": [
+          "Books",
+          "Magazines",
+          "Stationery",
+          "Kids Books",
+          "Bestsellers",
+          "Stickers"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-013",
+        "name": "Tanishq",
+        "category": "Shopping",
+        "subcategory": "Jewellery",
+        "floor": "Ground Floor",
+        "shopNo": "G-JEW-01",
+        "rating": 4.6,
+        "priceRange": "₹5000-₹500000",
+        "timings": "10AM-10PM",
+        "phone": "1800-266-0123",
+        "tags": [
+          "Gold Jewellery",
+          "Diamond",
+          "Wedding Collection",
+          "Rings",
+          "Necklace",
+          "BIS Certified"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-014",
+        "name": "Kalyan Jewellers",
+        "category": "Shopping",
+        "subcategory": "Jewellery",
+        "floor": "Ground Floor",
+        "shopNo": "G-JEW-02",
+        "rating": 4.4,
+        "priceRange": "₹3000-₹300000",
+        "timings": "10AM-10PM",
+        "phone": "1800-425-7333",
+        "tags": [
+          "Gold",
+          "Silver",
+          "Diamond",
+          "Platinum",
+          "Temple Jewellery",
+          "Wedding"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-015",
+        "name": "Malabar Gold",
+        "category": "Shopping",
+        "subcategory": "Jewellery",
+        "floor": "Ground Floor",
+        "shopNo": "G-JEW-03",
+        "rating": 4.4,
+        "priceRange": "₹5000-₹500000",
+        "timings": "10AM-10PM",
+        "phone": "1800-425-2233",
+        "tags": [
+          "Gold",
+          "Diamond",
+          "Platinum",
+          "Jewellery",
+          "Bridal",
+          "BIS Hallmark"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-016",
+        "name": "Swarovski",
+        "category": "Shopping",
+        "subcategory": "Jewellery & Accessories",
+        "floor": "Ground Floor",
+        "shopNo": "G-LUX-10",
+        "rating": 4.5,
+        "priceRange": "₹2000-₹50000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-2016",
+        "tags": [
+          "Crystal",
+          "Jewellery",
+          "Figurines",
+          "Accessories",
+          "Gifts",
+          "Austrian"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-017",
+        "name": "Fossil",
+        "category": "Shopping",
+        "subcategory": "Watches & Accessories",
+        "floor": "Ground Floor",
+        "shopNo": "G-48",
+        "rating": 4.3,
+        "priceRange": "₹5000-₹30000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-2017",
+        "tags": [
+          "Watches",
+          "Bags",
+          "Wallets",
+          "Smartwatch",
+          "Leather Goods"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-018",
+        "name": "Titan World",
+        "category": "Shopping",
+        "subcategory": "Watches",
+        "floor": "Ground Floor",
+        "shopNo": "G-50",
+        "rating": 4.4,
+        "priceRange": "₹3000-₹50000",
+        "timings": "10AM-11PM",
+        "phone": "1800-266-0123",
+        "tags": [
+          "Watches",
+          "Automatic",
+          "Smart",
+          "Men",
+          "Women",
+          "Indian"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-019",
+        "name": "Titan Eye+",
+        "category": "Shopping",
+        "subcategory": "Eyewear",
+        "floor": "Ground Floor",
+        "shopNo": "G-52",
+        "rating": 4.2,
+        "priceRange": "₹1000-₹15000",
+        "timings": "10AM-11PM",
+        "phone": "1800-266-0123",
+        "tags": [
+          "Eyeglasses",
+          "Sunglasses",
+          "Contact Lenses",
+          "Eye Check",
+          "Prescription"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-020",
+        "name": "Lenskart",
+        "category": "Shopping",
+        "subcategory": "Eyewear",
+        "floor": "First Floor",
+        "shopNo": "F1-62",
+        "rating": 4.3,
+        "priceRange": "₹500-₹8000",
+        "timings": "10AM-11PM",
+        "phone": "1800-102-6886",
+        "tags": [
+          "Eyeglasses",
+          "Sunglasses",
+          "Lenses",
+          "Blue Cut",
+          "Progressive"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-021",
+        "name": "Baggit",
+        "category": "Shopping",
+        "subcategory": "Bags & Accessories",
+        "floor": "Second Floor",
+        "shopNo": "F2-30",
+        "rating": 4.1,
+        "priceRange": "₹1000-₹6000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-2021",
+        "tags": [
+          "Handbags",
+          "Backpacks",
+          "Wallets",
+          "Women",
+          "Vegan Leather"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-022",
+        "name": "Da Milano",
+        "category": "Shopping",
+        "subcategory": "Luxury Bags",
+        "floor": "Ground Floor",
+        "shopNo": "G-LUX-12",
+        "rating": 4.4,
+        "priceRange": "₹5000-₹50000",
+        "timings": "10AM-11PM",
+        "phone": "011-40009012",
+        "tags": [
+          "Leather",
+          "Luxury Bags",
+          "Wallets",
+          "Belts",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-023",
+        "name": "Samsonite",
+        "category": "Shopping",
+        "subcategory": "Luggage & Travel",
+        "floor": "Third Floor",
+        "shopNo": "F3-16",
+        "rating": 4.3,
+        "priceRange": "₹5000-₹50000",
+        "timings": "10AM-11PM",
+        "phone": "1800-209-3277",
+        "tags": [
+          "Trolley Bags",
+          "Backpacks",
+          "Travel",
+          "Premium Luggage",
+          "Business Bags"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-024",
+        "name": "VIP Luggage",
+        "category": "Shopping",
+        "subcategory": "Luggage & Travel",
+        "floor": "Third Floor",
+        "shopNo": "F3-18",
+        "rating": 4.1,
+        "priceRange": "₹2000-₹20000",
+        "timings": "10AM-11PM",
+        "phone": "1800-209-0030",
+        "tags": [
+          "Luggage",
+          "Suitcase",
+          "Trolley",
+          "Travel Bags",
+          "Backpacks"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-025",
+        "name": "Lifestyle Store",
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "floor": "Ground Floor",
+        "shopNo": "G-02",
+        "rating": 4.3,
+        "priceRange": "₹500-₹10000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-2025",
+        "tags": [
+          "Fashion",
+          "Accessories",
+          "Cosmetics",
+          "Home Decor",
+          "Kids",
+          "Multi Brand"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-026",
+        "name": "Westside",
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "floor": "Second Floor",
+        "shopNo": "F2-01",
+        "rating": 4.0,
+        "priceRange": "₹500-₹6000",
+        "timings": "10AM-11PM",
+        "phone": "1800-209-4477",
+        "tags": [
+          "Fashion",
+          "Home Furnishing",
+          "Men",
+          "Women",
+          "Kids",
+          "Accessories"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-027",
+        "name": "Nykaa Fashion",
+        "category": "Shopping",
+        "subcategory": "Women's Fashion",
+        "floor": "Second Floor",
+        "shopNo": "F2-22",
+        "rating": 4.0,
+        "priceRange": "₹500-₹8000",
+        "timings": "10AM-11PM",
+        "phone": "1800-267-9255",
+        "tags": [
+          "Women's Fashion",
+          "Tops",
+          "Dresses",
+          "Ethnic",
+          "Indo-Western",
+          "Loungewear"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-028",
+        "name": "Phone Accessories Kiosk",
+        "category": "Shopping",
+        "subcategory": "Mobile Accessories",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-MOB-01",
+        "rating": 3.7,
+        "priceRange": "₹100-₹2000",
+        "timings": "10AM-11PM",
+        "phone": "N/A",
+        "tags": [
+          "Phone Cases",
+          "Screen Guard",
+          "Chargers",
+          "Earphones",
+          "Cables",
+          "Power Bank"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-029",
+        "name": "Chroma Accessories Corner",
+        "category": "Shopping",
+        "subcategory": "Mobile Accessories Kiosk",
+        "floor": "Third Floor",
+        "shopNo": "F3-KIOSK-01",
+        "rating": 3.8,
+        "priceRange": "₹200-₹3000",
+        "timings": "10AM-11PM",
+        "phone": "N/A",
+        "tags": [
+          "Earphones",
+          "Smartwatches",
+          "Chargers",
+          "Speakers",
+          "Fitness Band"
+        ]
+      },
+      {
+        "outletId": "MOI-SH-030",
+        "name": "Toy Kiosk",
+        "category": "Shopping",
+        "subcategory": "Toys Kiosk",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-KIOSK-01",
+        "rating": 3.9,
+        "priceRange": "₹100-₹1000",
+        "timings": "10AM-11PM",
+        "phone": "N/A",
+        "tags": [
+          "Small Toys",
+          "Fidget",
+          "Slime",
+          "Kids",
+          "Party Favours",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "MOI-ENT-001",
+        "name": "PVR INOX Cinemas",
+        "category": "Entertainment",
+        "subcategory": "Cinema",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-CINEMA",
+        "rating": 4.4,
+        "priceRange": "₹200-₹800",
+        "timings": "9AM-12AM",
+        "phone": "011-39987777",
+        "tags": [
+          "Movies",
+          "IMAX",
+          "4DX",
+          "Gold Class",
+          "Dolby Atmos",
+          "Multiplex"
+        ]
+      },
+      {
+        "outletId": "MOI-ENT-002",
+        "name": "Fun City",
+        "category": "Entertainment",
+        "subcategory": "Gaming Zone",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-FUNCITY",
+        "rating": 4.0,
+        "priceRange": "₹100-₹500",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-3002",
+        "tags": [
+          "Arcade",
+          "Kids Rides",
+          "Bowling",
+          "Air Hockey",
+          "Token Games",
+          "Family Fun"
+        ]
+      },
+      {
+        "outletId": "MOI-ENT-003",
+        "name": "Smaaash",
+        "category": "Entertainment",
+        "subcategory": "Sports & Gaming",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-SMAAASH",
+        "rating": 4.2,
+        "priceRange": "₹200-₹1000",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-3003",
+        "tags": [
+          "Virtual Cricket",
+          "Bowling",
+          "VR Games",
+          "Karting",
+          "Archery",
+          "Sports Simulator"
+        ]
+      },
+      {
+        "outletId": "MOI-ENT-004",
+        "name": "Strike Bowling",
+        "category": "Entertainment",
+        "subcategory": "Bowling",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-BOWL",
+        "rating": 4.1,
+        "priceRange": "₹300-₹700",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-3004",
+        "tags": [
+          "Bowling",
+          "Lanes",
+          "Groups",
+          "Family",
+          "10 Pin",
+          "Friends"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-001",
+        "name": "HDFC Bank ATM",
+        "category": "Services",
+        "subcategory": "Banking",
+        "floor": "Ground Floor",
+        "shopNo": "G-ATM-01",
+        "rating": 3.9,
+        "priceRange": "Free",
+        "timings": "24 Hours",
+        "phone": "1800-258-3838",
+        "tags": [
+          "ATM",
+          "Cash Withdrawal",
+          "HDFC",
+          "Banking",
+          "24x7"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-002",
+        "name": "ICICI Bank ATM",
+        "category": "Services",
+        "subcategory": "Banking",
+        "floor": "First Floor",
+        "shopNo": "F1-ATM-01",
+        "rating": 3.8,
+        "priceRange": "Free",
+        "timings": "24 Hours",
+        "phone": "1800-1080",
+        "tags": [
+          "ATM",
+          "Cash",
+          "ICICI",
+          "Banking",
+          "24x7"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-003",
+        "name": "SBI ATM",
+        "category": "Services",
+        "subcategory": "Banking",
+        "floor": "Ground Floor",
+        "shopNo": "G-ATM-02",
+        "rating": 3.7,
+        "priceRange": "Free",
+        "timings": "24 Hours",
+        "phone": "1800-425-3800",
+        "tags": [
+          "ATM",
+          "Cash",
+          "SBI",
+          "Government Bank",
+          "24x7"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-004",
+        "name": "Axis Bank ATM",
+        "category": "Services",
+        "subcategory": "Banking",
+        "floor": "Second Floor",
+        "shopNo": "F2-ATM-01",
+        "rating": 3.8,
+        "priceRange": "Free",
+        "timings": "24 Hours",
+        "phone": "1800-419-5555",
+        "tags": [
+          "ATM",
+          "Cash",
+          "Axis Bank",
+          "24x7",
+          "Banking"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-005",
+        "name": "Jawed Habib",
+        "category": "Services",
+        "subcategory": "Salon",
+        "floor": "Third Floor",
+        "shopNo": "F3-SVC-01",
+        "rating": 4.0,
+        "priceRange": "₹300-₹3000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-4005",
+        "tags": [
+          "Haircut",
+          "Hair Color",
+          "Beard",
+          "Men",
+          "Women",
+          "Styling"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-006",
+        "name": "Lakme Salon",
+        "category": "Services",
+        "subcategory": "Salon",
+        "floor": "Third Floor",
+        "shopNo": "F3-SVC-02",
+        "rating": 4.1,
+        "priceRange": "₹500-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-4006",
+        "tags": [
+          "Hair",
+          "Makeup",
+          "Skin",
+          "Facial",
+          "Waxing",
+          "Bridal",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-007",
+        "name": "Naturals Salon",
+        "category": "Services",
+        "subcategory": "Salon",
+        "floor": "Second Floor",
+        "shopNo": "F2-SVC-01",
+        "rating": 4.1,
+        "priceRange": "₹400-₹4000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-4007",
+        "tags": [
+          "Hair Treatment",
+          "Keratin",
+          "Color",
+          "Men",
+          "Women",
+          "Nail Art"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-008",
+        "name": "Apollo Pharmacy",
+        "category": "Services",
+        "subcategory": "Pharmacy",
+        "floor": "Ground Floor",
+        "shopNo": "G-SVC-PHARM-01",
+        "rating": 4.3,
+        "priceRange": "₹10-₹2000",
+        "timings": "8AM-11PM",
+        "phone": "1800-419-1777",
+        "tags": [
+          "Medicines",
+          "OTC",
+          "Prescription",
+          "Healthcare",
+          "24 Hours",
+          "Supplements"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-009",
+        "name": "MedPlus Pharmacy",
+        "category": "Services",
+        "subcategory": "Pharmacy",
+        "floor": "First Floor",
+        "shopNo": "F1-SVC-PHARM-01",
+        "rating": 4.1,
+        "priceRange": "₹10-₹2000",
+        "timings": "9AM-10PM",
+        "phone": "1800-425-0303",
+        "tags": [
+          "Generic Medicines",
+          "OTC",
+          "Prescription",
+          "Healthcare",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-010",
+        "name": "Dr. Lal PathLabs",
+        "category": "Services",
+        "subcategory": "Healthcare",
+        "floor": "Ground Floor",
+        "shopNo": "G-SVC-LAB-01",
+        "rating": 4.2,
+        "priceRange": "₹200-₹5000",
+        "timings": "7AM-9PM",
+        "phone": "011-39885050",
+        "tags": [
+          "Blood Test",
+          "Pathology",
+          "Diagnostics",
+          "Health Checkup",
+          "Report"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-011",
+        "name": "FedEx Courier",
+        "category": "Services",
+        "subcategory": "Courier & Logistics",
+        "floor": "Ground Floor",
+        "shopNo": "G-SVC-COU-01",
+        "rating": 3.9,
+        "priceRange": "₹100-₹2000",
+        "timings": "9AM-7PM",
+        "phone": "1800-419-4343",
+        "tags": [
+          "International Courier",
+          "Shipping",
+          "Document",
+          "Parcel",
+          "Tracking"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-012",
+        "name": "DTDC Courier",
+        "category": "Services",
+        "subcategory": "Courier & Logistics",
+        "floor": "Ground Floor",
+        "shopNo": "G-SVC-COU-02",
+        "rating": 3.8,
+        "priceRange": "₹50-₹1000",
+        "timings": "9AM-7PM",
+        "phone": "1800-209-3000",
+        "tags": [
+          "Domestic Courier",
+          "Parcel",
+          "Speed Post",
+          "Tracking",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-013",
+        "name": "Mobile Repair Kiosk",
+        "category": "Services",
+        "subcategory": "Mobile Repair",
+        "floor": "Second Floor",
+        "shopNo": "F2-KIOSK-REP-01",
+        "rating": 3.8,
+        "priceRange": "₹200-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Screen Repair",
+          "Battery Replacement",
+          "Data Recovery",
+          "All Brands",
+          "Quick Fix"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-014",
+        "name": "Specsmakers",
+        "category": "Services",
+        "subcategory": "Eyewear & Eye Care",
+        "floor": "First Floor",
+        "shopNo": "F1-SVC-EYE-01",
+        "rating": 4.0,
+        "priceRange": "₹500-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-4014",
+        "tags": [
+          "Eye Test",
+          "Prescription Glasses",
+          "Affordable",
+          "Computer Glasses",
+          "Frames"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-015",
+        "name": "Dry Cleaning Point",
+        "category": "Services",
+        "subcategory": "Laundry",
+        "floor": "First Floor",
+        "shopNo": "F1-SVC-LAUN-01",
+        "rating": 3.9,
+        "priceRange": "₹100-₹1000",
+        "timings": "9AM-9PM",
+        "phone": "9876543200",
+        "tags": [
+          "Dry Clean",
+          "Laundry",
+          "Ironing",
+          "Clothes Care",
+          "Suit",
+          "Saree"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-016",
+        "name": "Car Wash & Valet",
+        "category": "Services",
+        "subcategory": "Parking Services",
+        "floor": "Basement",
+        "shopNo": "BSMT-SVC-01",
+        "rating": 4.0,
+        "priceRange": "₹200-₹800",
+        "timings": "10AM-10PM",
+        "phone": "9876543201",
+        "tags": [
+          "Car Wash",
+          "Interior Cleaning",
+          "Valet",
+          "Detailing",
+          "Parking"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-017",
+        "name": "Kids Play Area",
+        "category": "Services",
+        "subcategory": "Kids Facility",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-KIDS-01",
+        "rating": 4.3,
+        "priceRange": "₹100-₹300",
+        "timings": "10AM-11PM",
+        "phone": "1800-1234-4017",
+        "tags": [
+          "Kids",
+          "Play Area",
+          "Toddler",
+          "Slides",
+          "Ball Pit",
+          "Supervised",
+          "Parents"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-018",
+        "name": "Prayer Room",
+        "category": "Services",
+        "subcategory": "Facility",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-PRAY-01",
+        "rating": 4.8,
+        "priceRange": "Free",
+        "timings": "10AM-11PM",
+        "phone": "N/A",
+        "tags": [
+          "Prayer",
+          "Namaz",
+          "Pooja",
+          "Meditation",
+          "Religious",
+          "Quiet Room"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-019",
+        "name": "Lost & Found Desk",
+        "category": "Services",
+        "subcategory": "Customer Service",
+        "floor": "Ground Floor",
+        "shopNo": "G-HELP-01",
+        "rating": 4.2,
+        "priceRange": "Free",
+        "timings": "10AM-11PM",
+        "phone": "011-40001234",
+        "tags": [
+          "Lost Items",
+          "Found",
+          "Help Desk",
+          "Assistance",
+          "Customer Care"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-020",
+        "name": "Wheelchair & Stroller Rental",
+        "category": "Services",
+        "subcategory": "Accessibility",
+        "floor": "Ground Floor",
+        "shopNo": "G-ACCESS-01",
+        "rating": 4.5,
+        "priceRange": "Free/₹50",
+        "timings": "10AM-11PM",
+        "phone": "011-40001235",
+        "tags": [
+          "Wheelchair",
+          "Stroller",
+          "Accessibility",
+          "Baby",
+          "Elderly",
+          "Free"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-021",
+        "name": "ATM - Kotak Mahindra",
+        "category": "Services",
+        "subcategory": "Banking",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-ATM-01",
+        "rating": 3.8,
+        "priceRange": "Free",
+        "timings": "24 Hours",
+        "phone": "1800-209-0000",
+        "tags": [
+          "ATM",
+          "Cash",
+          "Kotak",
+          "Banking"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-022",
+        "name": "Stamp & Photocopy Kiosk",
+        "category": "Services",
+        "subcategory": "Stationery Services",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-PH-01",
+        "rating": 3.6,
+        "priceRange": "₹2-₹100",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Photocopy",
+          "Stamp",
+          "Printout",
+          "Stationery",
+          "Documents",
+          "Passport Size Photo"
+        ]
+      },
+      {
+        "outletId": "MOI-SVC-023",
+        "name": "Gift Wrapping Counter",
+        "category": "Services",
+        "subcategory": "Gifting Services",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-GW-01",
+        "rating": 4.1,
+        "priceRange": "₹20-₹200",
+        "timings": "10AM-11PM",
+        "phone": "N/A",
+        "tags": [
+          "Gift Wrap",
+          "Bow",
+          "Ribbon",
+          "Birthday",
+          "Anniversary",
+          "Hamper"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Shipra Mall",
+    "city": "Ghaziabad",
+    "area": "Indirapuram",
+    "address": "NH-24, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "coordinates": {
+      "lat": 28.6412,
+      "lng": 77.3652
+    },
+    "totalFloors": 5,
+    "parking": true,
+    "rating": 4.1,
+    "timings": "10:00 AM - 10:00 PM",
+    "type": "Mall",
+    "outlets": [
+      {
+        "outletId": "SM-F-001",
+        "name": "McDonald's",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Ground Floor",
+        "shopNo": "G-09",
+        "rating": 4.1,
+        "priceRange": "₹200-₹500",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-5678",
+        "tags": [
+          "Burgers",
+          "McSpicy",
+          "Happy Meal",
+          "Fries",
+          "Shakes"
+        ]
+      },
+      {
+        "outletId": "SM-F-002",
+        "name": "KFC",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-01",
+        "rating": 4.0,
+        "priceRange": "₹250-₹600",
+        "timings": "10AM-10PM",
+        "phone": "1800-2345-6789",
+        "tags": [
+          "Fried Chicken",
+          "Zinger",
+          "Popcorn Chicken",
+          "Twister"
+        ]
+      },
+      {
+        "outletId": "SM-F-003",
+        "name": "Domino's Pizza",
+        "category": "Food",
+        "subcategory": "Pizza",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-02",
+        "rating": 4.2,
+        "priceRange": "₹300-₹700",
+        "timings": "10AM-10PM",
+        "phone": "1800-5678-9012",
+        "tags": [
+          "Pizza",
+          "Cheese Burst",
+          "Garlic Bread",
+          "Delivery"
+        ]
+      },
+      {
+        "outletId": "SM-F-004",
+        "name": "Mainland China",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-05",
+        "rating": 4.3,
+        "priceRange": "₹1000-₹2500",
+        "timings": "11AM-10PM",
+        "phone": "011-40512345",
+        "tags": [
+          "Chinese",
+          "Dim Sum",
+          "Dragon Chicken",
+          "Wok"
+        ]
+      },
+      {
+        "outletId": "SM-F-005",
+        "name": "Barbeque Nation",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-01",
+        "rating": 4.4,
+        "priceRange": "₹1200-₹2500",
+        "timings": "12PM-10PM",
+        "phone": "011-40536666",
+        "tags": [
+          "Barbeque",
+          "Buffet",
+          "North Indian",
+          "Live Grill"
+        ]
+      },
+      {
+        "outletId": "SM-F-006",
+        "name": "Cafe Coffee Day",
+        "category": "Food",
+        "subcategory": "Cafe",
+        "floor": "Ground Floor",
+        "shopNo": "G-15",
+        "rating": 3.8,
+        "priceRange": "₹150-₹400",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-7777",
+        "tags": [
+          "Coffee",
+          "Cold Coffee",
+          "Frappe",
+          "Snacks",
+          "Sandwiches"
+        ]
+      },
+      {
+        "outletId": "SM-F-007",
+        "name": "Chaayos",
+        "category": "Food",
+        "subcategory": "Cafe",
+        "floor": "First Floor",
+        "shopNo": "F1-08",
+        "rating": 4.4,
+        "priceRange": "₹100-₹350",
+        "timings": "8AM-10PM",
+        "phone": "1800-9012-3456",
+        "tags": [
+          "Masala Chai",
+          "Ginger Tea",
+          "Samosa",
+          "Maggi",
+          "Tapri Feel"
+        ]
+      },
+      {
+        "outletId": "SM-F-008",
+        "name": "Wow! Momo",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-03",
+        "rating": 4.2,
+        "priceRange": "₹100-₹350",
+        "timings": "10AM-10PM",
+        "phone": "1800-0123-4567",
+        "tags": [
+          "Steamed Momos",
+          "Fried Momos",
+          "Chilli",
+          "Soup Momos"
+        ]
+      },
+      {
+        "outletId": "SM-F-009",
+        "name": "Haldiram's",
+        "category": "Food",
+        "subcategory": "Indian Snacks",
+        "floor": "Ground Floor",
+        "shopNo": "G-20",
+        "rating": 4.3,
+        "priceRange": "₹100-₹500",
+        "timings": "10AM-10PM",
+        "phone": "011-23456789",
+        "tags": [
+          "Namkeen",
+          "Sweets",
+          "Puri",
+          "Thali",
+          "Samosa"
+        ]
+      },
+      {
+        "outletId": "SM-F-010",
+        "name": "Subway",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-04",
+        "rating": 3.9,
+        "priceRange": "₹200-₹500",
+        "timings": "10AM-10PM",
+        "phone": "1800-6789-0123",
+        "tags": [
+          "Subs",
+          "Wraps",
+          "Salads",
+          "Healthy",
+          "Veg"
+        ]
+      },
+      {
+        "outletId": "SM-F-011",
+        "name": "Biryani By Kilo",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-05",
+        "rating": 4.4,
+        "priceRange": "₹400-₹900",
+        "timings": "12PM-10PM",
+        "phone": "1800-3344-5566",
+        "tags": [
+          "Dum Biryani",
+          "Mughlai",
+          "Korma",
+          "Lucknowi"
+        ]
+      },
+      {
+        "outletId": "SM-F-012",
+        "name": "Burger King",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-06",
+        "rating": 4.0,
+        "priceRange": "₹200-₹600",
+        "timings": "10AM-10PM",
+        "phone": "1800-3456-7890",
+        "tags": [
+          "Whopper",
+          "Crispy Veg",
+          "Wraps",
+          "Onion Rings"
+        ]
+      },
+      {
+        "outletId": "SM-F-013",
+        "name": "Theobroma",
+        "category": "Food",
+        "subcategory": "Bakery",
+        "floor": "Ground Floor",
+        "shopNo": "G-25",
+        "rating": 4.5,
+        "priceRange": "₹200-₹800",
+        "timings": "10AM-10PM",
+        "phone": "022-23456789",
+        "tags": [
+          "Brownies",
+          "Cakes",
+          "Pastries",
+          "Quiche",
+          "Desserts"
+        ]
+      },
+      {
+        "outletId": "SM-F-014",
+        "name": "Natural Ice Cream",
+        "category": "Food",
+        "subcategory": "Ice Cream",
+        "floor": "Ground Floor",
+        "shopNo": "G-28",
+        "rating": 4.5,
+        "priceRange": "₹80-₹300",
+        "timings": "10AM-10PM",
+        "phone": "022-34567890",
+        "tags": [
+          "Natural",
+          "Sitaphal",
+          "Mango",
+          "Coconut",
+          "Fruit Based"
+        ]
+      },
+      {
+        "outletId": "SM-F-015",
+        "name": "Dunkin Donuts",
+        "category": "Food",
+        "subcategory": "Bakery & Cafe",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-07",
+        "rating": 3.9,
+        "priceRange": "₹150-₹500",
+        "timings": "10AM-10PM",
+        "phone": "1800-2233-4455",
+        "tags": [
+          "Donuts",
+          "Coffee",
+          "Bagels",
+          "Munchkins"
+        ]
+      },
+      {
+        "outletId": "SM-F-016",
+        "name": "South Indian Express",
+        "category": "Food",
+        "subcategory": "South Indian",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-08",
+        "rating": 4.0,
+        "priceRange": "₹100-₹350",
+        "timings": "10AM-10PM",
+        "phone": "9876543220",
+        "tags": [
+          "Masala Dosa",
+          "Idli",
+          "Vada",
+          "Rasam",
+          "Filter Coffee"
+        ]
+      },
+      {
+        "outletId": "SM-F-017",
+        "name": "Punjabi Dhaba Corner",
+        "category": "Food",
+        "subcategory": "Local Restaurant",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-09",
+        "rating": 4.1,
+        "priceRange": "₹150-₹400",
+        "timings": "10AM-10PM",
+        "phone": "9876543221",
+        "tags": [
+          "Butter Naan",
+          "Dal Makhani",
+          "Lassi",
+          "Thali",
+          "Local"
+        ]
+      },
+      {
+        "outletId": "SM-F-018",
+        "name": "Kake Di Hatti",
+        "category": "Food",
+        "subcategory": "Local Restaurant",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-10",
+        "rating": 4.2,
+        "priceRange": "₹100-₹350",
+        "timings": "10AM-10PM",
+        "phone": "9876543222",
+        "tags": [
+          "Paratha",
+          "Chole Bhature",
+          "Aloo Puri",
+          "Breakfast"
+        ]
+      },
+      {
+        "outletId": "SM-F-019",
+        "name": "Moti Mahal Delux",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-03",
+        "rating": 4.2,
+        "priceRange": "₹600-₹1500",
+        "timings": "12PM-10PM",
+        "phone": "011-33445566",
+        "tags": [
+          "Butter Chicken",
+          "Tandoori",
+          "Mughlai",
+          "Dal Fry"
+        ]
+      },
+      {
+        "outletId": "SM-F-020",
+        "name": "Amul Ice Cream Parlour",
+        "category": "Food",
+        "subcategory": "Ice Cream",
+        "floor": "Ground Floor",
+        "shopNo": "G-32",
+        "rating": 4.3,
+        "priceRange": "₹50-₹250",
+        "timings": "10AM-10PM",
+        "phone": "1800-258-3333",
+        "tags": [
+          "Ice Cream",
+          "Shakes",
+          "Affordable",
+          "Cassata"
+        ]
+      },
+      {
+        "outletId": "SM-F-021",
+        "name": "Pizza Hut",
+        "category": "Food",
+        "subcategory": "Pizza",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-11",
+        "rating": 4.0,
+        "priceRange": "₹400-₹900",
+        "timings": "10AM-10PM",
+        "phone": "1800-4567-8901",
+        "tags": [
+          "Pan Pizza",
+          "Stuffed Crust",
+          "Pasta",
+          "Meal Deal"
+        ]
+      },
+      {
+        "outletId": "SM-F-022",
+        "name": "Barista",
+        "category": "Food",
+        "subcategory": "Cafe",
+        "floor": "First Floor",
+        "shopNo": "F1-10",
+        "rating": 4.0,
+        "priceRange": "₹200-₹500",
+        "timings": "10AM-10PM",
+        "phone": "1800-8901-2345",
+        "tags": [
+          "Espresso",
+          "Latte",
+          "Cold Coffee",
+          "Muffins",
+          "Sandwiches"
+        ]
+      },
+      {
+        "outletId": "SM-F-023",
+        "name": "Fresh Juice Bar",
+        "category": "Food",
+        "subcategory": "Juice & Beverages Kiosk",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-JC-01",
+        "rating": 4.1,
+        "priceRange": "₹80-₹200",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Fresh Juice",
+          "Smoothies",
+          "Coconut Water",
+          "Lemon",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "SM-F-024",
+        "name": "Rolls & Wraps Stall",
+        "category": "Food",
+        "subcategory": "Street Food Kiosk",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-KIOSK-01",
+        "rating": 3.8,
+        "priceRange": "₹60-₹200",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Egg Roll",
+          "Paneer Roll",
+          "Frankie",
+          "Affordable",
+          "Quick Bite"
+        ]
+      },
+      {
+        "outletId": "SM-F-025",
+        "name": "Kwality Walls Corner",
+        "category": "Food",
+        "subcategory": "Ice Cream Kiosk",
+        "floor": "All Floors",
+        "shopNo": "KIOSK-ICE-01",
+        "rating": 4.0,
+        "priceRange": "₹30-₹150",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Cornetto",
+          "Feast",
+          "Magnum",
+          "Kulfi",
+          "Quick Bite"
+        ]
+      },
+      {
+        "outletId": "SM-C-001",
+        "name": "Fabindia",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Second Floor",
+        "shopNo": "F2-06",
+        "rating": 4.4,
+        "priceRange": "₹800-₹8000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0010",
+        "tags": [
+          "Ethnic",
+          "Handloom",
+          "Organic",
+          "Kurta",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "SM-C-002",
+        "name": "Lee",
+        "category": "Clothing",
+        "subcategory": "Denim",
+        "floor": "First Floor",
+        "shopNo": "F1-20",
+        "rating": 4.0,
+        "priceRange": "₹1500-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0023",
+        "tags": [
+          "Denim",
+          "Jeans",
+          "Casual",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "SM-C-003",
+        "name": "Pantaloons",
+        "category": "Clothing",
+        "subcategory": "Department Store",
+        "floor": "Third Floor",
+        "shopNo": "F3-01",
+        "rating": 4.0,
+        "priceRange": "₹500-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0014",
+        "tags": [
+          "Men",
+          "Women",
+          "Kids",
+          "Ethnic",
+          "Western"
+        ]
+      },
+      {
+        "outletId": "SM-C-004",
+        "name": "Max Fashion",
+        "category": "Clothing",
+        "subcategory": "Affordable Fashion",
+        "floor": "Third Floor",
+        "shopNo": "F3-03",
+        "rating": 3.9,
+        "priceRange": "₹299-₹3000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0015",
+        "tags": [
+          "Affordable",
+          "Men",
+          "Women",
+          "Kids",
+          "Value Fashion"
+        ]
+      },
+      {
+        "outletId": "SM-C-005",
+        "name": "Van Heusen",
+        "category": "Clothing",
+        "subcategory": "Formal",
+        "floor": "First Floor",
+        "shopNo": "F1-12",
+        "rating": 4.2,
+        "priceRange": "₹1500-₹8000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0008",
+        "tags": [
+          "Formal",
+          "Men",
+          "Corporate",
+          "Shirts",
+          "Trousers"
+        ]
+      },
+      {
+        "outletId": "SM-C-006",
+        "name": "Allen Solly",
+        "category": "Clothing",
+        "subcategory": "Formal",
+        "floor": "First Floor",
+        "shopNo": "F1-14",
+        "rating": 4.1,
+        "priceRange": "₹1000-₹6000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0009",
+        "tags": [
+          "Smart Casual",
+          "Men",
+          "Women",
+          "Office Wear"
+        ]
+      },
+      {
+        "outletId": "SM-C-007",
+        "name": "W (Aurelia)",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Second Floor",
+        "shopNo": "F2-10",
+        "rating": 4.2,
+        "priceRange": "₹799-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0011",
+        "tags": [
+          "Ethnic",
+          "Kurtas",
+          "Women",
+          "Fusion",
+          "Salwar"
+        ]
+      },
+      {
+        "outletId": "SM-C-008",
+        "name": "Biba",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Second Floor",
+        "shopNo": "F2-12",
+        "rating": 4.1,
+        "priceRange": "₹699-₹4000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0012",
+        "tags": [
+          "Ethnic",
+          "Salwar Kameez",
+          "Women",
+          "Festive"
+        ]
+      },
+      {
+        "outletId": "SM-C-009",
+        "name": "Levi's",
+        "category": "Clothing",
+        "subcategory": "Denim",
+        "floor": "First Floor",
+        "shopNo": "F1-18",
+        "rating": 4.2,
+        "priceRange": "₹1999-₹8000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0007",
+        "tags": [
+          "Jeans",
+          "Denim",
+          "Casual",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "SM-C-010",
+        "name": "Raymond",
+        "category": "Clothing",
+        "subcategory": "Formal & Fabric",
+        "floor": "Second Floor",
+        "shopNo": "F2-04",
+        "rating": 4.2,
+        "priceRange": "₹2000-₹30000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0017",
+        "tags": [
+          "Suits",
+          "Blazers",
+          "Formal",
+          "Fabric",
+          "Men"
+        ]
+      },
+      {
+        "outletId": "SM-C-011",
+        "name": "Peter England",
+        "category": "Clothing",
+        "subcategory": "Formal",
+        "floor": "First Floor",
+        "shopNo": "F1-22",
+        "rating": 4.0,
+        "priceRange": "₹999-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0018",
+        "tags": [
+          "Formal Shirts",
+          "Men",
+          "Affordable Formal"
+        ]
+      },
+      {
+        "outletId": "SM-C-012",
+        "name": "Wrogn",
+        "category": "Clothing",
+        "subcategory": "Youth Fashion",
+        "floor": "First Floor",
+        "shopNo": "F1-25",
+        "rating": 4.1,
+        "priceRange": "₹799-₹4000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0016",
+        "tags": [
+          "Youth",
+          "Casual",
+          "Men",
+          "Streetwear"
+        ]
+      },
+      {
+        "outletId": "SM-C-013",
+        "name": "Spykar",
+        "category": "Clothing",
+        "subcategory": "Denim",
+        "floor": "First Floor",
+        "shopNo": "F1-28",
+        "rating": 3.9,
+        "priceRange": "₹1299-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0020",
+        "tags": [
+          "Denim",
+          "Jeans",
+          "Youth",
+          "Men"
+        ]
+      },
+      {
+        "outletId": "SM-C-014",
+        "name": "Global Desi",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Second Floor",
+        "shopNo": "F2-14",
+        "rating": 4.0,
+        "priceRange": "₹999-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0013",
+        "tags": [
+          "Ethnic",
+          "Fusion",
+          "Women",
+          "Boho",
+          "Printed"
+        ]
+      },
+      {
+        "outletId": "SM-C-015",
+        "name": "H&M",
+        "category": "Clothing",
+        "subcategory": "International Brand",
+        "floor": "Second Floor",
+        "shopNo": "F2-01",
+        "rating": 4.3,
+        "priceRange": "₹999-₹6000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0002",
+        "tags": [
+          "Casual",
+          "Men",
+          "Women",
+          "Kids",
+          "International"
+        ]
+      },
+      {
+        "outletId": "SM-C-016",
+        "name": "Jockey Store",
+        "category": "Clothing",
+        "subcategory": "Innerwear & Loungewear",
+        "floor": "First Floor",
+        "shopNo": "F1-30",
+        "rating": 4.3,
+        "priceRange": "₹299-₹2000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0029",
+        "tags": [
+          "Innerwear",
+          "Loungewear",
+          "Men",
+          "Women",
+          "Sports Bra"
+        ]
+      },
+      {
+        "outletId": "SM-C-017",
+        "name": "Tommy Hilfiger",
+        "category": "Clothing",
+        "subcategory": "Premium International",
+        "floor": "Second Floor",
+        "shopNo": "F2-18",
+        "rating": 4.4,
+        "priceRange": "₹3000-₹20000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0024",
+        "tags": [
+          "American Style",
+          "Premium",
+          "Men",
+          "Women",
+          "Polo"
+        ]
+      },
+      {
+        "outletId": "SM-C-018",
+        "name": "Roadster Life Co.",
+        "category": "Clothing",
+        "subcategory": "Youth Fashion",
+        "floor": "First Floor",
+        "shopNo": "F1-32",
+        "rating": 3.8,
+        "priceRange": "₹499-₹3000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0030",
+        "tags": [
+          "Casual",
+          "Youth",
+          "Affordable",
+          "Trendy"
+        ]
+      },
+      {
+        "outletId": "SM-S-001",
+        "name": "Nike",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-35",
+        "rating": 4.4,
+        "priceRange": "₹2500-₹18000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1001",
+        "tags": [
+          "Running",
+          "Air Max",
+          "Jordan",
+          "Sports",
+          "Sneakers"
+        ]
+      },
+      {
+        "outletId": "SM-S-002",
+        "name": "Adidas",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-37",
+        "rating": 4.3,
+        "priceRange": "₹2000-₹15000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1002",
+        "tags": [
+          "Ultraboost",
+          "Stan Smith",
+          "Sports",
+          "Casual"
+        ]
+      },
+      {
+        "outletId": "SM-S-003",
+        "name": "Woodland",
+        "category": "Shoes",
+        "subcategory": "Outdoor",
+        "floor": "First Floor",
+        "shopNo": "F1-40",
+        "rating": 4.2,
+        "priceRange": "₹2500-₹10000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1008",
+        "tags": [
+          "Trekking",
+          "Boots",
+          "Outdoor",
+          "Leather",
+          "Waterproof"
+        ]
+      },
+      {
+        "outletId": "SM-S-004",
+        "name": "Bata",
+        "category": "Shoes",
+        "subcategory": "General",
+        "floor": "Ground Floor",
+        "shopNo": "G-38",
+        "rating": 3.9,
+        "priceRange": "₹599-₹4000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1009",
+        "tags": [
+          "Formal",
+          "Casual",
+          "School",
+          "Kids",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "SM-S-005",
+        "name": "Metro Shoes",
+        "category": "Shoes",
+        "subcategory": "Fashion Footwear",
+        "floor": "Ground Floor",
+        "shopNo": "G-40",
+        "rating": 4.0,
+        "priceRange": "₹999-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1010",
+        "tags": [
+          "Fashion",
+          "Heels",
+          "Sandals",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "SM-S-006",
+        "name": "Skechers",
+        "category": "Shoes",
+        "subcategory": "Comfort",
+        "floor": "First Floor",
+        "shopNo": "F1-42",
+        "rating": 4.2,
+        "priceRange": "₹2500-₹9000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1006",
+        "tags": [
+          "Comfort",
+          "Memory Foam",
+          "Men",
+          "Women",
+          "Kids"
+        ]
+      },
+      {
+        "outletId": "SM-S-007",
+        "name": "Reebok",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-44",
+        "rating": 4.1,
+        "priceRange": "₹1999-₹10000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1004",
+        "tags": [
+          "Training",
+          "Sports",
+          "Classic Leather"
+        ]
+      },
+      {
+        "outletId": "SM-S-008",
+        "name": "Red Tape",
+        "category": "Shoes",
+        "subcategory": "Formal",
+        "floor": "Ground Floor",
+        "shopNo": "G-44",
+        "rating": 4.0,
+        "priceRange": "₹1499-₹6000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1013",
+        "tags": [
+          "Formal",
+          "Casual",
+          "Men",
+          "Leather",
+          "Oxford"
+        ]
+      },
+      {
+        "outletId": "SM-S-009",
+        "name": "Mochi Shoes",
+        "category": "Shoes",
+        "subcategory": "Fashion Footwear",
+        "floor": "Ground Floor",
+        "shopNo": "G-46",
+        "rating": 4.2,
+        "priceRange": "₹1500-₹7000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1011",
+        "tags": [
+          "Fashion",
+          "Heels",
+          "Wedges",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "SM-S-010",
+        "name": "Liberty Shoes",
+        "category": "Shoes",
+        "subcategory": "Indian Brand",
+        "floor": "Ground Floor",
+        "shopNo": "G-48",
+        "rating": 3.8,
+        "priceRange": "₹799-₹4500",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1015",
+        "tags": [
+          "Formal",
+          "Casual",
+          "Kids",
+          "Women",
+          "Men"
+        ]
+      },
+      {
+        "outletId": "SM-S-011",
+        "name": "Puma",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-46",
+        "rating": 4.3,
+        "priceRange": "₹2000-₹12000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1003",
+        "tags": [
+          "Sports",
+          "Casual",
+          "Running",
+          "Suede"
+        ]
+      },
+      {
+        "outletId": "SM-S-012",
+        "name": "Khadim's",
+        "category": "Shoes",
+        "subcategory": "Affordable",
+        "floor": "Ground Floor",
+        "shopNo": "G-50",
+        "rating": 3.8,
+        "priceRange": "₹499-₹3000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1014",
+        "tags": [
+          "Affordable",
+          "Casual",
+          "Kids",
+          "School",
+          "Sandals"
+        ]
+      },
+      {
+        "outletId": "SM-S-013",
+        "name": "Converse",
+        "category": "Shoes",
+        "subcategory": "Casual",
+        "floor": "First Floor",
+        "shopNo": "F1-48",
+        "rating": 4.2,
+        "priceRange": "₹2500-₹8000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1017",
+        "tags": [
+          "Chuck Taylor",
+          "Casual",
+          "Unisex",
+          "Canvas",
+          "Classic"
+        ]
+      },
+      {
+        "outletId": "SM-S-014",
+        "name": "Shoe Repair Kiosk",
+        "category": "Shoes",
+        "subcategory": "Shoe Repair",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-SH-01",
+        "rating": 3.7,
+        "priceRange": "₹50-₹500",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Repair",
+          "Sole",
+          "Polish",
+          "Cobbler",
+          "Quick Fix"
+        ]
+      },
+      {
+        "outletId": "SM-SH-001",
+        "name": "Croma",
+        "category": "Shopping",
+        "subcategory": "Electronics",
+        "floor": "Third Floor",
+        "shopNo": "F3-10",
+        "rating": 4.2,
+        "priceRange": "₹500-₹150000",
+        "timings": "10AM-10PM",
+        "phone": "1800-258-3636",
+        "tags": [
+          "Mobiles",
+          "Laptops",
+          "TVs",
+          "Appliances",
+          "Gadgets"
+        ]
+      },
+      {
+        "outletId": "SM-SH-002",
+        "name": "Samsung SmartCafe",
+        "category": "Shopping",
+        "subcategory": "Electronics",
+        "floor": "Ground Floor",
+        "shopNo": "G-10",
+        "rating": 4.3,
+        "priceRange": "₹5000-₹200000",
+        "timings": "10AM-10PM",
+        "phone": "1800-407-7267",
+        "tags": [
+          "Galaxy",
+          "TVs",
+          "Refrigerators",
+          "Washing Machine"
+        ]
+      },
+      {
+        "outletId": "SM-SH-003",
+        "name": "Tanishq",
+        "category": "Shopping",
+        "subcategory": "Jewellery",
+        "floor": "Ground Floor",
+        "shopNo": "G-JEW-01",
+        "rating": 4.6,
+        "priceRange": "₹5000-₹500000",
+        "timings": "10AM-10PM",
+        "phone": "1800-266-0123",
+        "tags": [
+          "Gold",
+          "Diamond",
+          "Wedding",
+          "BIS Certified"
+        ]
+      },
+      {
+        "outletId": "SM-SH-004",
+        "name": "Kalyan Jewellers",
+        "category": "Shopping",
+        "subcategory": "Jewellery",
+        "floor": "Ground Floor",
+        "shopNo": "G-JEW-02",
+        "rating": 4.4,
+        "priceRange": "₹3000-₹300000",
+        "timings": "10AM-10PM",
+        "phone": "1800-425-7333",
+        "tags": [
+          "Gold",
+          "Silver",
+          "Diamond",
+          "Bridal",
+          "Temple"
+        ]
+      },
+      {
+        "outletId": "SM-SH-005",
+        "name": "Nykaa",
+        "category": "Shopping",
+        "subcategory": "Beauty & Cosmetics",
+        "floor": "Ground Floor",
+        "shopNo": "G-20",
+        "rating": 4.3,
+        "priceRange": "₹200-₹10000",
+        "timings": "10AM-10PM",
+        "phone": "1800-267-9255",
+        "tags": [
+          "Makeup",
+          "Skincare",
+          "Haircare",
+          "Lipstick",
+          "Perfume"
+        ]
+      },
+      {
+        "outletId": "SM-SH-006",
+        "name": "The Body Shop",
+        "category": "Shopping",
+        "subcategory": "Beauty & Personal Care",
+        "floor": "Ground Floor",
+        "shopNo": "G-24",
+        "rating": 4.4,
+        "priceRange": "₹400-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-2007",
+        "tags": [
+          "Skincare",
+          "Body Butter",
+          "Natural",
+          "Cruelty Free"
+        ]
+      },
+      {
+        "outletId": "SM-SH-007",
+        "name": "Miniso",
+        "category": "Shopping",
+        "subcategory": "Lifestyle & Gifts",
+        "floor": "Ground Floor",
+        "shopNo": "G-30",
+        "rating": 4.2,
+        "priceRange": "₹99-₹2000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-2010",
+        "tags": [
+          "Lifestyle",
+          "Cute",
+          "Gifts",
+          "Accessories",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "SM-SH-008",
+        "name": "Hamleys",
+        "category": "Shopping",
+        "subcategory": "Toys",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-01",
+        "rating": 4.4,
+        "priceRange": "₹200-₹20000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-2009",
+        "tags": [
+          "Toys",
+          "LEGO",
+          "Board Games",
+          "Soft Toys",
+          "Kids"
+        ]
+      },
+      {
+        "outletId": "SM-SH-009",
+        "name": "Westside",
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "floor": "Second Floor",
+        "shopNo": "F2-01",
+        "rating": 4.0,
+        "priceRange": "₹500-₹6000",
+        "timings": "10AM-10PM",
+        "phone": "1800-209-4477",
+        "tags": [
+          "Fashion",
+          "Home",
+          "Men",
+          "Women",
+          "Kids"
+        ]
+      },
+      {
+        "outletId": "SM-SH-010",
+        "name": "Archies Gallery",
+        "category": "Shopping",
+        "subcategory": "Gifts & Cards",
+        "floor": "Ground Floor",
+        "shopNo": "G-34",
+        "rating": 3.9,
+        "priceRange": "₹100-₹3000",
+        "timings": "10AM-10PM",
+        "phone": "011-23456780",
+        "tags": [
+          "Greeting Cards",
+          "Soft Toys",
+          "Gifts",
+          "Birthday",
+          "Balloons"
+        ]
+      },
+      {
+        "outletId": "SM-SH-011",
+        "name": "Crossword",
+        "category": "Shopping",
+        "subcategory": "Books & Stationery",
+        "floor": "Third Floor",
+        "shopNo": "F3-12",
+        "rating": 4.3,
+        "priceRange": "₹100-₹2000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-2012",
+        "tags": [
+          "Books",
+          "Magazines",
+          "Stationery",
+          "Bestsellers"
+        ]
+      },
+      {
+        "outletId": "SM-SH-012",
+        "name": "Fossil",
+        "category": "Shopping",
+        "subcategory": "Watches & Accessories",
+        "floor": "Ground Floor",
+        "shopNo": "G-48",
+        "rating": 4.3,
+        "priceRange": "₹5000-₹30000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-2017",
+        "tags": [
+          "Watches",
+          "Bags",
+          "Wallets",
+          "Smartwatch"
+        ]
+      },
+      {
+        "outletId": "SM-SH-013",
+        "name": "VIP Luggage",
+        "category": "Shopping",
+        "subcategory": "Luggage & Travel",
+        "floor": "Third Floor",
+        "shopNo": "F3-15",
+        "rating": 4.1,
+        "priceRange": "₹2000-₹20000",
+        "timings": "10AM-10PM",
+        "phone": "1800-209-0030",
+        "tags": [
+          "Luggage",
+          "Suitcase",
+          "Trolley",
+          "Backpacks"
+        ]
+      },
+      {
+        "outletId": "SM-SH-014",
+        "name": "Baggit",
+        "category": "Shopping",
+        "subcategory": "Bags & Accessories",
+        "floor": "Second Floor",
+        "shopNo": "F2-20",
+        "rating": 4.1,
+        "priceRange": "₹1000-₹6000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-2021",
+        "tags": [
+          "Handbags",
+          "Backpacks",
+          "Women",
+          "Vegan Leather"
+        ]
+      },
+      {
+        "outletId": "SM-SH-015",
+        "name": "Titan Eye+",
+        "category": "Shopping",
+        "subcategory": "Eyewear",
+        "floor": "Ground Floor",
+        "shopNo": "G-50",
+        "rating": 4.2,
+        "priceRange": "₹1000-₹15000",
+        "timings": "10AM-10PM",
+        "phone": "1800-266-0123",
+        "tags": [
+          "Eyeglasses",
+          "Sunglasses",
+          "Contact Lenses",
+          "Eye Check"
+        ]
+      },
+      {
+        "outletId": "SM-SH-016",
+        "name": "Reliance Digital",
+        "category": "Shopping",
+        "subcategory": "Electronics",
+        "floor": "Third Floor",
+        "shopNo": "F3-14",
+        "rating": 4.1,
+        "priceRange": "₹500-₹100000",
+        "timings": "10AM-10PM",
+        "phone": "1860-258-1000",
+        "tags": [
+          "Mobiles",
+          "Laptops",
+          "ACs",
+          "Appliances"
+        ]
+      },
+      {
+        "outletId": "SM-SH-017",
+        "name": "Phone Accessories Kiosk",
+        "category": "Shopping",
+        "subcategory": "Mobile Accessories",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-MOB-01",
+        "rating": 3.7,
+        "priceRange": "₹100-₹2000",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Phone Cases",
+          "Screen Guard",
+          "Chargers",
+          "Earphones"
+        ]
+      },
+      {
+        "outletId": "SM-SH-018",
+        "name": "Titan World",
+        "category": "Shopping",
+        "subcategory": "Watches",
+        "floor": "Ground Floor",
+        "shopNo": "G-52",
+        "rating": 4.4,
+        "priceRange": "₹3000-₹50000",
+        "timings": "10AM-10PM",
+        "phone": "1800-266-0123",
+        "tags": [
+          "Watches",
+          "Automatic",
+          "Smart",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "SM-ENT-001",
+        "name": "Cinepolis",
+        "category": "Entertainment",
+        "subcategory": "Cinema",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-CINEMA",
+        "rating": 4.3,
+        "priceRange": "₹180-₹500",
+        "timings": "9AM-11PM",
+        "phone": "1800-1234-3001",
+        "tags": [
+          "Movies",
+          "3D",
+          "4DX",
+          "Cinema",
+          "Multiplex",
+          "Popcorn"
+        ]
+      },
+      {
+        "outletId": "SM-ENT-002",
+        "name": "Fun City",
+        "category": "Entertainment",
+        "subcategory": "Gaming Zone",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-FUNCITY",
+        "rating": 4.0,
+        "priceRange": "₹100-₹500",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-3002",
+        "tags": [
+          "Arcade",
+          "Kids Rides",
+          "Air Hockey",
+          "Tokens",
+          "Family"
+        ]
+      },
+      {
+        "outletId": "SM-ENT-003",
+        "name": "Bowling Alley",
+        "category": "Entertainment",
+        "subcategory": "Bowling",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-BOWL",
+        "rating": 4.1,
+        "priceRange": "₹300-₹700",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-3004",
+        "tags": [
+          "Bowling",
+          "10 Pin",
+          "Groups",
+          "Family",
+          "Friends"
+        ]
+      },
+      {
+        "outletId": "SM-SVC-001",
+        "name": "HDFC Bank ATM",
+        "category": "Services",
+        "subcategory": "Banking",
+        "floor": "Ground Floor",
+        "shopNo": "G-ATM-01",
+        "rating": 3.9,
+        "priceRange": "Free",
+        "timings": "24 Hours",
+        "phone": "1800-258-3838",
+        "tags": [
+          "ATM",
+          "Cash",
+          "HDFC",
+          "24x7"
+        ]
+      },
+      {
+        "outletId": "SM-SVC-002",
+        "name": "SBI ATM",
+        "category": "Services",
+        "subcategory": "Banking",
+        "floor": "First Floor",
+        "shopNo": "F1-ATM-01",
+        "rating": 3.7,
+        "priceRange": "Free",
+        "timings": "24 Hours",
+        "phone": "1800-425-3800",
+        "tags": [
+          "ATM",
+          "SBI",
+          "Government",
+          "24x7"
+        ]
+      },
+      {
+        "outletId": "SM-SVC-003",
+        "name": "Jawed Habib",
+        "category": "Services",
+        "subcategory": "Salon",
+        "floor": "Third Floor",
+        "shopNo": "F3-SVC-01",
+        "rating": 4.0,
+        "priceRange": "₹300-₹3000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-4005",
+        "tags": [
+          "Haircut",
+          "Color",
+          "Beard",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "SM-SVC-004",
+        "name": "Lakme Salon",
+        "category": "Services",
+        "subcategory": "Salon",
+        "floor": "Third Floor",
+        "shopNo": "F3-SVC-02",
+        "rating": 4.1,
+        "priceRange": "₹500-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-4006",
+        "tags": [
+          "Hair",
+          "Makeup",
+          "Facial",
+          "Waxing",
+          "Bridal",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "SM-SVC-005",
+        "name": "Apollo Pharmacy",
+        "category": "Services",
+        "subcategory": "Pharmacy",
+        "floor": "Ground Floor",
+        "shopNo": "G-SVC-PHARM-01",
+        "rating": 4.3,
+        "priceRange": "₹10-₹2000",
+        "timings": "8AM-10PM",
+        "phone": "1800-419-1777",
+        "tags": [
+          "Medicines",
+          "OTC",
+          "Healthcare",
+          "Supplements"
+        ]
+      },
+      {
+        "outletId": "SM-SVC-006",
+        "name": "Dr. Lal PathLabs",
+        "category": "Services",
+        "subcategory": "Healthcare",
+        "floor": "Ground Floor",
+        "shopNo": "G-SVC-LAB-01",
+        "rating": 4.2,
+        "priceRange": "₹200-₹5000",
+        "timings": "7AM-9PM",
+        "phone": "011-39885050",
+        "tags": [
+          "Blood Test",
+          "Pathology",
+          "Diagnostics",
+          "Health Checkup"
+        ]
+      },
+      {
+        "outletId": "SM-SVC-007",
+        "name": "Mobile Repair Kiosk",
+        "category": "Services",
+        "subcategory": "Mobile Repair",
+        "floor": "Second Floor",
+        "shopNo": "F2-KIOSK-REP-01",
+        "rating": 3.8,
+        "priceRange": "₹200-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Screen Repair",
+          "Battery",
+          "All Brands",
+          "Quick Fix"
+        ]
+      },
+      {
+        "outletId": "SM-SVC-008",
+        "name": "Shoe Repair & Polish Kiosk",
+        "category": "Services",
+        "subcategory": "Shoe Repair",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-SH-01",
+        "rating": 3.7,
+        "priceRange": "₹50-₹500",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Repair",
+          "Polish",
+          "Cobbler",
+          "Sole",
+          "Quick Fix"
+        ]
+      },
+      {
+        "outletId": "SM-SVC-009",
+        "name": "FedEx Courier",
+        "category": "Services",
+        "subcategory": "Courier & Logistics",
+        "floor": "Ground Floor",
+        "shopNo": "G-SVC-COU-01",
+        "rating": 3.9,
+        "priceRange": "₹100-₹2000",
+        "timings": "9AM-7PM",
+        "phone": "1800-419-4343",
+        "tags": [
+          "Courier",
+          "International",
+          "Parcel",
+          "Tracking"
+        ]
+      },
+      {
+        "outletId": "SM-SVC-010",
+        "name": "Kids Play Area",
+        "category": "Services",
+        "subcategory": "Kids Facility",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-KIDS-01",
+        "rating": 4.3,
+        "priceRange": "₹100-₹300",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-4017",
+        "tags": [
+          "Kids",
+          "Play",
+          "Toddler",
+          "Supervised",
+          "Ball Pit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pacific Mall",
+    "city": "Ghaziabad",
+    "area": "Kaushambi",
+    "address": "Sahibabad, Kaushambi, Ghaziabad, Uttar Pradesh 201010",
+    "coordinates": {
+      "lat": 28.6449,
+      "lng": 77.3285
+    },
+    "totalFloors": 5,
+    "parking": true,
+    "rating": 4.2,
+    "timings": "10:00 AM - 10:30 PM",
+    "type": "Mall",
+    "outlets": [
+      {
+        "outletId": "PM-F-001",
+        "name": "McDonald's",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Ground Floor",
+        "shopNo": "G-05",
+        "rating": 4.1,
+        "priceRange": "₹200-₹500",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-5678",
+        "tags": [
+          "Burgers",
+          "McSpicy",
+          "Fries",
+          "Shakes",
+          "Happy Meal"
+        ]
+      },
+      {
+        "outletId": "PM-F-002",
+        "name": "KFC",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L3",
+        "shopNo": "FC-01",
+        "rating": 4.0,
+        "priceRange": "₹250-₹600",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-2345-6789",
+        "tags": [
+          "Fried Chicken",
+          "Zinger",
+          "Wings",
+          "Crispy"
+        ]
+      },
+      {
+        "outletId": "PM-F-003",
+        "name": "Wow! Momo",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L3",
+        "shopNo": "FC-02",
+        "rating": 4.2,
+        "priceRange": "₹100-₹350",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-0123-4567",
+        "tags": [
+          "Steamed Momos",
+          "Fried Momos",
+          "Soup Momo",
+          "Chilli"
+        ]
+      },
+      {
+        "outletId": "PM-F-004",
+        "name": "Theobroma",
+        "category": "Food",
+        "subcategory": "Bakery",
+        "floor": "Ground Floor",
+        "shopNo": "G-12",
+        "rating": 4.5,
+        "priceRange": "₹200-₹800",
+        "timings": "10AM-10:30PM",
+        "phone": "022-23456789",
+        "tags": [
+          "Brownies",
+          "Pastries",
+          "Cakes",
+          "Quiche",
+          "Desserts"
+        ]
+      },
+      {
+        "outletId": "PM-F-005",
+        "name": "Starbucks",
+        "category": "Food",
+        "subcategory": "Cafe",
+        "floor": "Ground Floor",
+        "shopNo": "G-08",
+        "rating": 4.5,
+        "priceRange": "₹300-₹700",
+        "timings": "8AM-10:30PM",
+        "phone": "1800-7890-1234",
+        "tags": [
+          "Coffee",
+          "Frappe",
+          "Cold Brew",
+          "Pastries",
+          "Cappuccino"
+        ]
+      },
+      {
+        "outletId": "PM-F-006",
+        "name": "Chaayos",
+        "category": "Food",
+        "subcategory": "Cafe",
+        "floor": "First Floor",
+        "shopNo": "F1-06",
+        "rating": 4.4,
+        "priceRange": "₹100-₹350",
+        "timings": "8AM-10:30PM",
+        "phone": "1800-9012-3456",
+        "tags": [
+          "Masala Chai",
+          "Ginger Tea",
+          "Samosa",
+          "Snacks"
+        ]
+      },
+      {
+        "outletId": "PM-F-007",
+        "name": "Burger King",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L3",
+        "shopNo": "FC-03",
+        "rating": 4.0,
+        "priceRange": "₹200-₹600",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-3456-7890",
+        "tags": [
+          "Whopper",
+          "Crispy Veg",
+          "Wraps"
+        ]
+      },
+      {
+        "outletId": "PM-F-008",
+        "name": "Pizza Hut",
+        "category": "Food",
+        "subcategory": "Pizza",
+        "floor": "Food Court - L3",
+        "shopNo": "FC-04",
+        "rating": 4.0,
+        "priceRange": "₹400-₹900",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-4567-8901",
+        "tags": [
+          "Pan Pizza",
+          "Stuffed Crust",
+          "Pasta",
+          "Garlic Bread"
+        ]
+      },
+      {
+        "outletId": "PM-F-009",
+        "name": "Subway",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L3",
+        "shopNo": "FC-05",
+        "rating": 3.9,
+        "priceRange": "₹200-₹500",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-6789-0123",
+        "tags": [
+          "Subs",
+          "Wraps",
+          "Healthy",
+          "Cookies"
+        ]
+      },
+      {
+        "outletId": "PM-F-010",
+        "name": "Biryani By Kilo",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Food Court - L3",
+        "shopNo": "FC-06",
+        "rating": 4.4,
+        "priceRange": "₹400-₹900",
+        "timings": "12PM-10:30PM",
+        "phone": "1800-3344-5566",
+        "tags": [
+          "Dum Biryani",
+          "Lucknowi",
+          "Mughlai",
+          "Korma"
+        ]
+      },
+      {
+        "outletId": "PM-F-011",
+        "name": "Barbeque Nation",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-01",
+        "rating": 4.4,
+        "priceRange": "₹1200-₹2500",
+        "timings": "12PM-10:30PM",
+        "phone": "011-40536666",
+        "tags": [
+          "Barbeque",
+          "Buffet",
+          "North Indian",
+          "Live Grill",
+          "Tandoor"
+        ]
+      },
+      {
+        "outletId": "PM-F-012",
+        "name": "Punjabi Dhaba Corner",
+        "category": "Food",
+        "subcategory": "Local Restaurant",
+        "floor": "Food Court - L3",
+        "shopNo": "FC-07",
+        "rating": 4.1,
+        "priceRange": "₹150-₹400",
+        "timings": "10AM-10:30PM",
+        "phone": "9876543230",
+        "tags": [
+          "Butter Naan",
+          "Dal Makhani",
+          "Lassi",
+          "Thali",
+          "Local Favourite"
+        ]
+      },
+      {
+        "outletId": "PM-F-013",
+        "name": "South Indian Express",
+        "category": "Food",
+        "subcategory": "South Indian",
+        "floor": "Food Court - L3",
+        "shopNo": "FC-08",
+        "rating": 4.0,
+        "priceRange": "₹100-₹350",
+        "timings": "10AM-10:30PM",
+        "phone": "9876543231",
+        "tags": [
+          "Masala Dosa",
+          "Idli",
+          "Vada",
+          "Filter Coffee",
+          "Uttapam"
+        ]
+      },
+      {
+        "outletId": "PM-F-014",
+        "name": "Haldiram's",
+        "category": "Food",
+        "subcategory": "Indian Snacks",
+        "floor": "Food Court - L3",
+        "shopNo": "FC-09",
+        "rating": 4.3,
+        "priceRange": "₹100-₹500",
+        "timings": "10AM-10:30PM",
+        "phone": "011-23456789",
+        "tags": [
+          "Namkeen",
+          "Sweets",
+          "Samosa",
+          "Puri",
+          "Thali"
+        ]
+      },
+      {
+        "outletId": "PM-F-015",
+        "name": "Natural Ice Cream",
+        "category": "Food",
+        "subcategory": "Ice Cream",
+        "floor": "Ground Floor",
+        "shopNo": "G-25",
+        "rating": 4.5,
+        "priceRange": "₹80-₹300",
+        "timings": "10AM-10:30PM",
+        "phone": "022-34567890",
+        "tags": [
+          "Natural",
+          "Sitaphal",
+          "Mango",
+          "Coconut",
+          "Fruit"
+        ]
+      },
+      {
+        "outletId": "PM-F-016",
+        "name": "Amul Ice Cream Parlour",
+        "category": "Food",
+        "subcategory": "Ice Cream",
+        "floor": "Ground Floor",
+        "shopNo": "G-26",
+        "rating": 4.3,
+        "priceRange": "₹50-₹250",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-258-3333",
+        "tags": [
+          "Ice Cream",
+          "Shakes",
+          "Affordable",
+          "Cassata"
+        ]
+      },
+      {
+        "outletId": "PM-F-017",
+        "name": "Fresh Juice Bar",
+        "category": "Food",
+        "subcategory": "Juice Kiosk",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-JC-01",
+        "rating": 4.1,
+        "priceRange": "₹80-₹200",
+        "timings": "10AM-10:30PM",
+        "phone": "N/A",
+        "tags": [
+          "Fresh Juice",
+          "Smoothie",
+          "Coconut Water",
+          "Lemon"
+        ]
+      },
+      {
+        "outletId": "PM-F-018",
+        "name": "Rolls & Wraps Stall",
+        "category": "Food",
+        "subcategory": "Street Food Kiosk",
+        "floor": "Food Court - L3",
+        "shopNo": "FC-KIOSK-01",
+        "rating": 3.8,
+        "priceRange": "₹60-₹200",
+        "timings": "10AM-10:30PM",
+        "phone": "N/A",
+        "tags": [
+          "Egg Roll",
+          "Paneer Roll",
+          "Frankie",
+          "Street Food",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "PM-F-019",
+        "name": "Kwality Walls Kiosk",
+        "category": "Food",
+        "subcategory": "Ice Cream Kiosk",
+        "floor": "All Floors",
+        "shopNo": "KIOSK-ICE-01",
+        "rating": 4.0,
+        "priceRange": "₹30-₹150",
+        "timings": "10AM-10:30PM",
+        "phone": "N/A",
+        "tags": [
+          "Cornetto",
+          "Feast",
+          "Magnum",
+          "Quick Bite"
+        ]
+      },
+      {
+        "outletId": "PM-F-020",
+        "name": "The Beer Cafe",
+        "category": "Food",
+        "subcategory": "Bar & Restaurant",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-03",
+        "rating": 4.2,
+        "priceRange": "₹800-₹2000",
+        "timings": "12PM-10:30PM",
+        "phone": "011-40523456",
+        "tags": [
+          "Craft Beer",
+          "Pub Food",
+          "Nachos",
+          "Nightlife",
+          "Cocktails"
+        ]
+      },
+      {
+        "outletId": "PM-C-001",
+        "name": "Wrogn",
+        "category": "Clothing",
+        "subcategory": "Youth Fashion",
+        "floor": "First Floor",
+        "shopNo": "F1-15",
+        "rating": 4.1,
+        "priceRange": "₹799-₹4000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-0016",
+        "tags": [
+          "Youth",
+          "Casual",
+          "Men",
+          "Streetwear"
+        ]
+      },
+      {
+        "outletId": "PM-C-002",
+        "name": "W (Aurelia)",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Second Floor",
+        "shopNo": "F2-22",
+        "rating": 4.2,
+        "priceRange": "₹799-₹5000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-0011",
+        "tags": [
+          "Ethnic",
+          "Kurtas",
+          "Women",
+          "Fusion"
+        ]
+      },
+      {
+        "outletId": "PM-C-003",
+        "name": "Pantaloons",
+        "category": "Clothing",
+        "subcategory": "Department Store",
+        "floor": "First Floor",
+        "shopNo": "F1-01",
+        "rating": 4.0,
+        "priceRange": "₹500-₹5000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-0014",
+        "tags": [
+          "Men",
+          "Women",
+          "Kids",
+          "Ethnic",
+          "Western"
+        ]
+      },
+      {
+        "outletId": "PM-C-004",
+        "name": "Max Fashion",
+        "category": "Clothing",
+        "subcategory": "Affordable Fashion",
+        "floor": "First Floor",
+        "shopNo": "F1-03",
+        "rating": 3.9,
+        "priceRange": "₹299-₹3000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-0015",
+        "tags": [
+          "Affordable",
+          "Men",
+          "Women",
+          "Kids",
+          "Value"
+        ]
+      },
+      {
+        "outletId": "PM-C-005",
+        "name": "Allen Solly",
+        "category": "Clothing",
+        "subcategory": "Formal",
+        "floor": "First Floor",
+        "shopNo": "F1-10",
+        "rating": 4.1,
+        "priceRange": "₹1000-₹6000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-0009",
+        "tags": [
+          "Smart Casual",
+          "Men",
+          "Women",
+          "Office"
+        ]
+      },
+      {
+        "outletId": "PM-C-006",
+        "name": "Van Heusen",
+        "category": "Clothing",
+        "subcategory": "Formal",
+        "floor": "First Floor",
+        "shopNo": "F1-12",
+        "rating": 4.2,
+        "priceRange": "₹1500-₹8000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-0008",
+        "tags": [
+          "Formal",
+          "Men",
+          "Corporate",
+          "Shirts"
+        ]
+      },
+      {
+        "outletId": "PM-C-007",
+        "name": "Fabindia",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Second Floor",
+        "shopNo": "F2-05",
+        "rating": 4.4,
+        "priceRange": "₹800-₹8000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-0010",
+        "tags": [
+          "Ethnic",
+          "Handloom",
+          "Organic",
+          "Kurta",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "PM-C-008",
+        "name": "Biba",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Second Floor",
+        "shopNo": "F2-10",
+        "rating": 4.1,
+        "priceRange": "₹699-₹4000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-0012",
+        "tags": [
+          "Ethnic",
+          "Salwar Kameez",
+          "Women",
+          "Festive"
+        ]
+      },
+      {
+        "outletId": "PM-C-009",
+        "name": "Levi's",
+        "category": "Clothing",
+        "subcategory": "Denim",
+        "floor": "First Floor",
+        "shopNo": "F1-18",
+        "rating": 4.2,
+        "priceRange": "₹1999-₹8000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-0007",
+        "tags": [
+          "Jeans",
+          "Denim",
+          "Casual",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "PM-C-010",
+        "name": "Peter England",
+        "category": "Clothing",
+        "subcategory": "Formal",
+        "floor": "First Floor",
+        "shopNo": "F1-22",
+        "rating": 4.0,
+        "priceRange": "₹999-₹5000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-0018",
+        "tags": [
+          "Formal Shirts",
+          "Men",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "PM-C-011",
+        "name": "H&M",
+        "category": "Clothing",
+        "subcategory": "International Brand",
+        "floor": "Second Floor",
+        "shopNo": "F2-01",
+        "rating": 4.3,
+        "priceRange": "₹999-₹6000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-0002",
+        "tags": [
+          "Casual",
+          "Men",
+          "Women",
+          "Kids",
+          "International"
+        ]
+      },
+      {
+        "outletId": "PM-C-012",
+        "name": "Jockey Store",
+        "category": "Clothing",
+        "subcategory": "Innerwear & Loungewear",
+        "floor": "First Floor",
+        "shopNo": "F1-30",
+        "rating": 4.3,
+        "priceRange": "₹299-₹2000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-0029",
+        "tags": [
+          "Innerwear",
+          "Loungewear",
+          "Men",
+          "Women",
+          "Sports Bra"
+        ]
+      },
+      {
+        "outletId": "PM-S-001",
+        "name": "Reebok",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-35",
+        "rating": 4.1,
+        "priceRange": "₹1999-₹10000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-1004",
+        "tags": [
+          "Training",
+          "Sports",
+          "Classic Leather",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "PM-S-002",
+        "name": "Clarks",
+        "category": "Shoes",
+        "subcategory": "Formal & Comfort",
+        "floor": "First Floor",
+        "shopNo": "F1-37",
+        "rating": 4.3,
+        "priceRange": "₹3500-₹15000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-1007",
+        "tags": [
+          "Formal",
+          "Comfort",
+          "Leather",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "PM-S-003",
+        "name": "Nike",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-39",
+        "rating": 4.4,
+        "priceRange": "₹2500-₹18000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-1001",
+        "tags": [
+          "Running",
+          "Air Max",
+          "Jordan",
+          "Sports",
+          "Sneakers"
+        ]
+      },
+      {
+        "outletId": "PM-S-004",
+        "name": "Adidas",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-41",
+        "rating": 4.3,
+        "priceRange": "₹2000-₹15000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-1002",
+        "tags": [
+          "Ultraboost",
+          "Stan Smith",
+          "Sports",
+          "Casual"
+        ]
+      },
+      {
+        "outletId": "PM-S-005",
+        "name": "Skechers",
+        "category": "Shoes",
+        "subcategory": "Comfort",
+        "floor": "First Floor",
+        "shopNo": "F1-43",
+        "rating": 4.2,
+        "priceRange": "₹2500-₹9000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-1006",
+        "tags": [
+          "Comfort",
+          "Memory Foam",
+          "Men",
+          "Women",
+          "Kids"
+        ]
+      },
+      {
+        "outletId": "PM-S-006",
+        "name": "Bata",
+        "category": "Shoes",
+        "subcategory": "General",
+        "floor": "Ground Floor",
+        "shopNo": "G-35",
+        "rating": 3.9,
+        "priceRange": "₹599-₹4000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-1009",
+        "tags": [
+          "Formal",
+          "Casual",
+          "School",
+          "Kids",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "PM-S-007",
+        "name": "Woodland",
+        "category": "Shoes",
+        "subcategory": "Outdoor",
+        "floor": "First Floor",
+        "shopNo": "F1-45",
+        "rating": 4.2,
+        "priceRange": "₹2500-₹10000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-1008",
+        "tags": [
+          "Trekking",
+          "Boots",
+          "Outdoor",
+          "Waterproof",
+          "Men"
+        ]
+      },
+      {
+        "outletId": "PM-S-008",
+        "name": "Metro Shoes",
+        "category": "Shoes",
+        "subcategory": "Fashion Footwear",
+        "floor": "Ground Floor",
+        "shopNo": "G-38",
+        "rating": 4.0,
+        "priceRange": "₹999-₹5000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-1010",
+        "tags": [
+          "Fashion",
+          "Heels",
+          "Sandals",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "PM-S-009",
+        "name": "Red Tape",
+        "category": "Shoes",
+        "subcategory": "Formal",
+        "floor": "Ground Floor",
+        "shopNo": "G-40",
+        "rating": 4.0,
+        "priceRange": "₹1499-₹6000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-1013",
+        "tags": [
+          "Formal",
+          "Casual",
+          "Men",
+          "Leather",
+          "Oxford"
+        ]
+      },
+      {
+        "outletId": "PM-S-010",
+        "name": "Shoe Repair Kiosk",
+        "category": "Shoes",
+        "subcategory": "Shoe Repair",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-SH-01",
+        "rating": 3.7,
+        "priceRange": "₹50-₹500",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Repair",
+          "Polish",
+          "Cobbler",
+          "Sole",
+          "Quick Fix"
+        ]
+      },
+      {
+        "outletId": "PM-SH-001",
+        "name": "Hamleys",
+        "category": "Shopping",
+        "subcategory": "Toys",
+        "floor": "Third Floor",
+        "shopNo": "F3-01",
+        "rating": 4.4,
+        "priceRange": "₹200-₹20000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-2009",
+        "tags": [
+          "Toys",
+          "LEGO",
+          "Board Games",
+          "Soft Toys",
+          "Kids"
+        ]
+      },
+      {
+        "outletId": "PM-SH-002",
+        "name": "Nykaa",
+        "category": "Shopping",
+        "subcategory": "Beauty & Cosmetics",
+        "floor": "Ground Floor",
+        "shopNo": "G-20",
+        "rating": 4.3,
+        "priceRange": "₹200-₹10000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-267-9255",
+        "tags": [
+          "Makeup",
+          "Skincare",
+          "Haircare",
+          "Lipstick",
+          "Perfume"
+        ]
+      },
+      {
+        "outletId": "PM-SH-003",
+        "name": "Croma",
+        "category": "Shopping",
+        "subcategory": "Electronics",
+        "floor": "Third Floor",
+        "shopNo": "F3-10",
+        "rating": 4.2,
+        "priceRange": "₹500-₹150000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-258-3636",
+        "tags": [
+          "Mobiles",
+          "Laptops",
+          "Gadgets",
+          "Appliances"
+        ]
+      },
+      {
+        "outletId": "PM-SH-004",
+        "name": "Tanishq",
+        "category": "Shopping",
+        "subcategory": "Jewellery",
+        "floor": "Ground Floor",
+        "shopNo": "G-JEW-01",
+        "rating": 4.6,
+        "priceRange": "₹5000-₹500000",
+        "timings": "10AM-10PM",
+        "phone": "1800-266-0123",
+        "tags": [
+          "Gold",
+          "Diamond",
+          "Wedding",
+          "BIS Certified"
+        ]
+      },
+      {
+        "outletId": "PM-SH-005",
+        "name": "Miniso",
+        "category": "Shopping",
+        "subcategory": "Lifestyle & Gifts",
+        "floor": "Ground Floor",
+        "shopNo": "G-28",
+        "rating": 4.2,
+        "priceRange": "₹99-₹2000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-2010",
+        "tags": [
+          "Lifestyle",
+          "Gifts",
+          "Accessories",
+          "Affordable",
+          "Cute"
+        ]
+      },
+      {
+        "outletId": "PM-SH-006",
+        "name": "Archies Gallery",
+        "category": "Shopping",
+        "subcategory": "Gifts & Cards",
+        "floor": "Ground Floor",
+        "shopNo": "G-30",
+        "rating": 3.9,
+        "priceRange": "₹100-₹3000",
+        "timings": "10AM-10:30PM",
+        "phone": "011-23456780",
+        "tags": [
+          "Cards",
+          "Gifts",
+          "Soft Toys",
+          "Birthday",
+          "Photo Frames"
+        ]
+      },
+      {
+        "outletId": "PM-SH-007",
+        "name": "Samsung SmartCafe",
+        "category": "Shopping",
+        "subcategory": "Electronics",
+        "floor": "Ground Floor",
+        "shopNo": "G-10",
+        "rating": 4.3,
+        "priceRange": "₹5000-₹200000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-407-7267",
+        "tags": [
+          "Galaxy",
+          "TVs",
+          "Refrigerators",
+          "Washing Machine"
+        ]
+      },
+      {
+        "outletId": "PM-SH-008",
+        "name": "VIP Luggage",
+        "category": "Shopping",
+        "subcategory": "Luggage & Travel",
+        "floor": "Third Floor",
+        "shopNo": "F3-15",
+        "rating": 4.1,
+        "priceRange": "₹2000-₹20000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-209-0030",
+        "tags": [
+          "Luggage",
+          "Trolley",
+          "Suitcase",
+          "Travel"
+        ]
+      },
+      {
+        "outletId": "PM-SH-009",
+        "name": "Baggit",
+        "category": "Shopping",
+        "subcategory": "Bags & Accessories",
+        "floor": "Second Floor",
+        "shopNo": "F2-20",
+        "rating": 4.1,
+        "priceRange": "₹1000-₹6000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-2021",
+        "tags": [
+          "Handbags",
+          "Backpacks",
+          "Women",
+          "Vegan Leather"
+        ]
+      },
+      {
+        "outletId": "PM-SH-010",
+        "name": "Phone Accessories Kiosk",
+        "category": "Shopping",
+        "subcategory": "Mobile Accessories",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-MOB-01",
+        "rating": 3.7,
+        "priceRange": "₹100-₹2000",
+        "timings": "10AM-10:30PM",
+        "phone": "N/A",
+        "tags": [
+          "Phone Cases",
+          "Chargers",
+          "Screen Guard",
+          "Earphones"
+        ]
+      },
+      {
+        "outletId": "PM-ENT-001",
+        "name": "PVR INOX Cinemas",
+        "category": "Entertainment",
+        "subcategory": "Cinema",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-CINEMA",
+        "rating": 4.4,
+        "priceRange": "₹200-₹800",
+        "timings": "9AM-11PM",
+        "phone": "011-39987777",
+        "tags": [
+          "Movies",
+          "IMAX",
+          "4DX",
+          "Cinema",
+          "Multiplex"
+        ]
+      },
+      {
+        "outletId": "PM-ENT-002",
+        "name": "Timezone",
+        "category": "Entertainment",
+        "subcategory": "Gaming Zone",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-TIMEZONE",
+        "rating": 4.1,
+        "priceRange": "₹150-₹600",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-3010",
+        "tags": [
+          "Arcade",
+          "Games",
+          "Kids",
+          "Bowling",
+          "Air Hockey",
+          "Tokens"
+        ]
+      },
+      {
+        "outletId": "PM-ENT-003",
+        "name": "Smaaash",
+        "category": "Entertainment",
+        "subcategory": "Sports & Gaming",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-SMAAASH",
+        "rating": 4.2,
+        "priceRange": "₹200-₹1000",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-3003",
+        "tags": [
+          "Virtual Cricket",
+          "VR",
+          "Bowling",
+          "Archery",
+          "Groups"
+        ]
+      },
+      {
+        "outletId": "PM-SVC-001",
+        "name": "HDFC Bank ATM",
+        "category": "Services",
+        "subcategory": "Banking",
+        "floor": "Ground Floor",
+        "shopNo": "G-ATM-01",
+        "rating": 3.9,
+        "priceRange": "Free",
+        "timings": "24 Hours",
+        "phone": "1800-258-3838",
+        "tags": [
+          "ATM",
+          "HDFC",
+          "Cash",
+          "24x7"
+        ]
+      },
+      {
+        "outletId": "PM-SVC-002",
+        "name": "ICICI Bank ATM",
+        "category": "Services",
+        "subcategory": "Banking",
+        "floor": "First Floor",
+        "shopNo": "F1-ATM-01",
+        "rating": 3.8,
+        "priceRange": "Free",
+        "timings": "24 Hours",
+        "phone": "1800-1080",
+        "tags": [
+          "ATM",
+          "ICICI",
+          "Cash",
+          "24x7"
+        ]
+      },
+      {
+        "outletId": "PM-SVC-003",
+        "name": "Jawed Habib",
+        "category": "Services",
+        "subcategory": "Salon",
+        "floor": "Third Floor",
+        "shopNo": "F3-SVC-01",
+        "rating": 4.0,
+        "priceRange": "₹300-₹3000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-4005",
+        "tags": [
+          "Haircut",
+          "Color",
+          "Beard",
+          "Styling"
+        ]
+      },
+      {
+        "outletId": "PM-SVC-004",
+        "name": "Lakme Salon",
+        "category": "Services",
+        "subcategory": "Salon",
+        "floor": "Third Floor",
+        "shopNo": "F3-SVC-02",
+        "rating": 4.1,
+        "priceRange": "₹500-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-4006",
+        "tags": [
+          "Hair",
+          "Makeup",
+          "Facial",
+          "Bridal",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "PM-SVC-005",
+        "name": "Apollo Pharmacy",
+        "category": "Services",
+        "subcategory": "Pharmacy",
+        "floor": "Ground Floor",
+        "shopNo": "G-SVC-PHARM-01",
+        "rating": 4.3,
+        "priceRange": "₹10-₹2000",
+        "timings": "8AM-10:30PM",
+        "phone": "1800-419-1777",
+        "tags": [
+          "Medicines",
+          "OTC",
+          "Healthcare",
+          "Supplements"
+        ]
+      },
+      {
+        "outletId": "PM-SVC-006",
+        "name": "Mobile Repair Kiosk",
+        "category": "Services",
+        "subcategory": "Mobile Repair",
+        "floor": "Second Floor",
+        "shopNo": "F2-KIOSK-REP-01",
+        "rating": 3.8,
+        "priceRange": "₹200-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Screen Repair",
+          "Battery",
+          "All Brands",
+          "Quick Fix"
+        ]
+      },
+      {
+        "outletId": "PM-SVC-007",
+        "name": "Kids Play Area",
+        "category": "Services",
+        "subcategory": "Kids Facility",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-KIDS-01",
+        "rating": 4.3,
+        "priceRange": "₹100-₹300",
+        "timings": "10AM-10:30PM",
+        "phone": "1800-1234-4017",
+        "tags": [
+          "Kids",
+          "Play",
+          "Toddler",
+          "Ball Pit",
+          "Supervised"
+        ]
+      },
+      {
+        "outletId": "PM-SVC-008",
+        "name": "Lost & Found Desk",
+        "category": "Services",
+        "subcategory": "Customer Service",
+        "floor": "Ground Floor",
+        "shopNo": "G-HELP-01",
+        "rating": 4.2,
+        "priceRange": "Free",
+        "timings": "10AM-10:30PM",
+        "phone": "0120-4001234",
+        "tags": [
+          "Lost",
+          "Found",
+          "Help",
+          "Customer Care",
+          "Assistance"
+        ]
+      },
+      {
+        "outletId": "PM-SVC-009",
+        "name": "Dry Cleaning Point",
+        "category": "Services",
+        "subcategory": "Laundry",
+        "floor": "First Floor",
+        "shopNo": "F1-SVC-LAUN-01",
+        "rating": 3.9,
+        "priceRange": "₹100-₹1000",
+        "timings": "9AM-9PM",
+        "phone": "9876543240",
+        "tags": [
+          "Dry Clean",
+          "Laundry",
+          "Ironing",
+          "Saree",
+          "Suit"
+        ]
+      },
+      {
+        "outletId": "PM-SVC-010",
+        "name": "Prayer Room",
+        "category": "Services",
+        "subcategory": "Facility",
+        "floor": "Third Floor",
+        "shopNo": "F3-PRAY-01",
+        "rating": 4.8,
+        "priceRange": "Free",
+        "timings": "10AM-10:30PM",
+        "phone": "N/A",
+        "tags": [
+          "Prayer",
+          "Namaz",
+          "Pooja",
+          "Religious",
+          "Quiet Room"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "The Great India Place",
+    "city": "Noida",
+    "area": "Sector 38A",
+    "address": "Plot A-2, Sector 38A, Noida, Uttar Pradesh 201301",
+    "coordinates": {
+      "lat": 28.5687,
+      "lng": 77.3211
+    },
+    "totalFloors": 5,
+    "parking": true,
+    "rating": 4.2,
+    "timings": "10:00 AM - 10:00 PM",
+    "type": "Mall",
+    "outlets": [
+      {
+        "outletId": "GIP-F-001",
+        "name": "McDonald's",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Ground Floor",
+        "shopNo": "G-12",
+        "rating": 4.1,
+        "priceRange": "₹200-₹500",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-5678",
+        "tags": [
+          "Burgers",
+          "McSpicy",
+          "Fries",
+          "Shakes"
+        ]
+      },
+      {
+        "outletId": "GIP-F-002",
+        "name": "Pizza Hut",
+        "category": "Food",
+        "subcategory": "Pizza",
+        "floor": "First Floor",
+        "shopNo": "F1-22",
+        "rating": 4.0,
+        "priceRange": "₹400-₹900",
+        "timings": "10AM-10PM",
+        "phone": "1800-4567-8901",
+        "tags": [
+          "Pan Pizza",
+          "Stuffed Crust",
+          "Pasta",
+          "Italian"
+        ]
+      },
+      {
+        "outletId": "GIP-F-003",
+        "name": "Domino's Pizza",
+        "category": "Food",
+        "subcategory": "Pizza",
+        "floor": "Ground Floor",
+        "shopNo": "G-34",
+        "rating": 4.2,
+        "priceRange": "₹300-₹700",
+        "timings": "10AM-10PM",
+        "phone": "1800-5678-9012",
+        "tags": [
+          "Pizza",
+          "Cheese Burst",
+          "Delivery",
+          "Garlic Bread"
+        ]
+      },
+      {
+        "outletId": "GIP-F-004",
+        "name": "KFC",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-01",
+        "rating": 4.0,
+        "priceRange": "₹250-₹600",
+        "timings": "10AM-10PM",
+        "phone": "1800-2345-6789",
+        "tags": [
+          "Fried Chicken",
+          "Zinger",
+          "Wings",
+          "Crispy"
+        ]
+      },
+      {
+        "outletId": "GIP-F-005",
+        "name": "Burger King",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-02",
+        "rating": 4.0,
+        "priceRange": "₹200-₹600",
+        "timings": "10AM-10PM",
+        "phone": "1800-3456-7890",
+        "tags": [
+          "Whopper",
+          "Crispy Veg",
+          "Wraps"
+        ]
+      },
+      {
+        "outletId": "GIP-F-006",
+        "name": "Subway",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-03",
+        "rating": 3.9,
+        "priceRange": "₹200-₹500",
+        "timings": "10AM-10PM",
+        "phone": "1800-6789-0123",
+        "tags": [
+          "Subs",
+          "Healthy",
+          "Wraps",
+          "Cookies"
+        ]
+      },
+      {
+        "outletId": "GIP-F-007",
+        "name": "Starbucks",
+        "category": "Food",
+        "subcategory": "Cafe",
+        "floor": "Ground Floor",
+        "shopNo": "G-08",
+        "rating": 4.5,
+        "priceRange": "₹300-₹700",
+        "timings": "8AM-10PM",
+        "phone": "1800-7890-1234",
+        "tags": [
+          "Coffee",
+          "Frappe",
+          "Pastries",
+          "Cold Brew"
+        ]
+      },
+      {
+        "outletId": "GIP-F-008",
+        "name": "Chaayos",
+        "category": "Food",
+        "subcategory": "Cafe",
+        "floor": "First Floor",
+        "shopNo": "F1-08",
+        "rating": 4.4,
+        "priceRange": "₹100-₹350",
+        "timings": "8AM-10PM",
+        "phone": "1800-9012-3456",
+        "tags": [
+          "Chai",
+          "Ginger Tea",
+          "Samosa",
+          "Snacks"
+        ]
+      },
+      {
+        "outletId": "GIP-F-009",
+        "name": "Haldiram's",
+        "category": "Food",
+        "subcategory": "Indian Snacks",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-04",
+        "rating": 4.3,
+        "priceRange": "₹100-₹500",
+        "timings": "10AM-10PM",
+        "phone": "011-23456789",
+        "tags": [
+          "Namkeen",
+          "Sweets",
+          "Puri",
+          "Samosa",
+          "Thali"
+        ]
+      },
+      {
+        "outletId": "GIP-F-010",
+        "name": "Wow! Momo",
+        "category": "Food",
+        "subcategory": "Fast Food",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-05",
+        "rating": 4.2,
+        "priceRange": "₹100-₹350",
+        "timings": "10AM-10PM",
+        "phone": "1800-0123-4567",
+        "tags": [
+          "Steamed Momos",
+          "Fried Momos",
+          "Chilli Momo"
+        ]
+      },
+      {
+        "outletId": "GIP-F-011",
+        "name": "Biryani By Kilo",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-06",
+        "rating": 4.4,
+        "priceRange": "₹400-₹900",
+        "timings": "12PM-10PM",
+        "phone": "1800-3344-5566",
+        "tags": [
+          "Dum Biryani",
+          "Lucknowi",
+          "Mughlai"
+        ]
+      },
+      {
+        "outletId": "GIP-F-012",
+        "name": "Barbeque Nation",
+        "category": "Food",
+        "subcategory": "Restaurant",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-01",
+        "rating": 4.4,
+        "priceRange": "₹1200-₹2500",
+        "timings": "12PM-10PM",
+        "phone": "011-40536666",
+        "tags": [
+          "Barbeque",
+          "Buffet",
+          "North Indian",
+          "Live Grill"
+        ]
+      },
+      {
+        "outletId": "GIP-F-013",
+        "name": "Punjabi Dhaba Corner",
+        "category": "Food",
+        "subcategory": "Local Restaurant",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-07",
+        "rating": 4.1,
+        "priceRange": "₹150-₹400",
+        "timings": "10AM-10PM",
+        "phone": "9876543240",
+        "tags": [
+          "Butter Naan",
+          "Dal Makhani",
+          "Thali",
+          "Local",
+          "Lassi"
+        ]
+      },
+      {
+        "outletId": "GIP-F-014",
+        "name": "South Indian Express",
+        "category": "Food",
+        "subcategory": "South Indian",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-08",
+        "rating": 4.0,
+        "priceRange": "₹100-₹350",
+        "timings": "10AM-10PM",
+        "phone": "9876543241",
+        "tags": [
+          "Dosa",
+          "Idli",
+          "Vada",
+          "Rasam",
+          "Filter Coffee"
+        ]
+      },
+      {
+        "outletId": "GIP-F-015",
+        "name": "Natural Ice Cream",
+        "category": "Food",
+        "subcategory": "Ice Cream",
+        "floor": "Ground Floor",
+        "shopNo": "G-28",
+        "rating": 4.5,
+        "priceRange": "₹80-₹300",
+        "timings": "10AM-10PM",
+        "phone": "022-34567890",
+        "tags": [
+          "Natural",
+          "Sitaphal",
+          "Mango",
+          "Coconut",
+          "Fruit"
+        ]
+      },
+      {
+        "outletId": "GIP-F-016",
+        "name": "Fresh Juice Bar",
+        "category": "Food",
+        "subcategory": "Juice Kiosk",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-JC-01",
+        "rating": 4.1,
+        "priceRange": "₹80-₹200",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Juice",
+          "Smoothie",
+          "Coconut Water",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "GIP-F-017",
+        "name": "Rolls & Wraps Stall",
+        "category": "Food",
+        "subcategory": "Street Food Kiosk",
+        "floor": "Food Court - L4",
+        "shopNo": "FC-KIOSK-01",
+        "rating": 3.8,
+        "priceRange": "₹60-₹200",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Egg Roll",
+          "Paneer Roll",
+          "Frankie",
+          "Street Food"
+        ]
+      },
+      {
+        "outletId": "GIP-F-018",
+        "name": "Kwality Walls Kiosk",
+        "category": "Food",
+        "subcategory": "Ice Cream Kiosk",
+        "floor": "All Floors",
+        "shopNo": "KIOSK-ICE-01",
+        "rating": 4.0,
+        "priceRange": "₹30-₹150",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Cornetto",
+          "Feast",
+          "Magnum",
+          "Kulfi"
+        ]
+      },
+      {
+        "outletId": "GIP-C-001",
+        "name": "Zara",
+        "category": "Clothing",
+        "subcategory": "International Brand",
+        "floor": "Second Floor",
+        "shopNo": "F2-05",
+        "rating": 4.5,
+        "priceRange": "₹2000-₹15000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0001",
+        "tags": [
+          "Western",
+          "Women",
+          "Men",
+          "International",
+          "Trendy"
+        ]
+      },
+      {
+        "outletId": "GIP-C-002",
+        "name": "H&M",
+        "category": "Clothing",
+        "subcategory": "International Brand",
+        "floor": "Second Floor",
+        "shopNo": "F2-10",
+        "rating": 4.3,
+        "priceRange": "₹999-₹6000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0002",
+        "tags": [
+          "Casual",
+          "Women",
+          "Men",
+          "Kids",
+          "International"
+        ]
+      },
+      {
+        "outletId": "GIP-C-003",
+        "name": "Levi's",
+        "category": "Clothing",
+        "subcategory": "Denim",
+        "floor": "First Floor",
+        "shopNo": "F1-05",
+        "rating": 4.2,
+        "priceRange": "₹1999-₹8000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0007",
+        "tags": [
+          "Jeans",
+          "Denim",
+          "Casual",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "GIP-C-004",
+        "name": "Van Heusen",
+        "category": "Clothing",
+        "subcategory": "Formal",
+        "floor": "First Floor",
+        "shopNo": "F1-08",
+        "rating": 4.2,
+        "priceRange": "₹1500-₹8000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0008",
+        "tags": [
+          "Formal",
+          "Men",
+          "Corporate",
+          "Shirts"
+        ]
+      },
+      {
+        "outletId": "GIP-C-005",
+        "name": "Allen Solly",
+        "category": "Clothing",
+        "subcategory": "Formal",
+        "floor": "First Floor",
+        "shopNo": "F1-10",
+        "rating": 4.1,
+        "priceRange": "₹1000-₹6000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0009",
+        "tags": [
+          "Smart Casual",
+          "Men",
+          "Women",
+          "Office"
+        ]
+      },
+      {
+        "outletId": "GIP-C-006",
+        "name": "Fabindia",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Second Floor",
+        "shopNo": "F2-06",
+        "rating": 4.4,
+        "priceRange": "₹800-₹8000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0010",
+        "tags": [
+          "Ethnic",
+          "Handloom",
+          "Organic",
+          "Kurta",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "GIP-C-007",
+        "name": "W (Aurelia)",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Second Floor",
+        "shopNo": "F2-08",
+        "rating": 4.2,
+        "priceRange": "₹799-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0011",
+        "tags": [
+          "Ethnic",
+          "Kurtas",
+          "Women",
+          "Fusion"
+        ]
+      },
+      {
+        "outletId": "GIP-C-008",
+        "name": "Biba",
+        "category": "Clothing",
+        "subcategory": "Ethnic Wear",
+        "floor": "Second Floor",
+        "shopNo": "F2-12",
+        "rating": 4.1,
+        "priceRange": "₹699-₹4000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0012",
+        "tags": [
+          "Ethnic",
+          "Salwar Kameez",
+          "Women",
+          "Festive"
+        ]
+      },
+      {
+        "outletId": "GIP-C-009",
+        "name": "Pantaloons",
+        "category": "Clothing",
+        "subcategory": "Department Store",
+        "floor": "First Floor",
+        "shopNo": "F1-01",
+        "rating": 4.0,
+        "priceRange": "₹500-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0014",
+        "tags": [
+          "Men",
+          "Women",
+          "Kids",
+          "Ethnic",
+          "Western"
+        ]
+      },
+      {
+        "outletId": "GIP-C-010",
+        "name": "Max Fashion",
+        "category": "Clothing",
+        "subcategory": "Affordable Fashion",
+        "floor": "First Floor",
+        "shopNo": "F1-03",
+        "rating": 3.9,
+        "priceRange": "₹299-₹3000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0015",
+        "tags": [
+          "Affordable",
+          "Men",
+          "Women",
+          "Kids",
+          "Value"
+        ]
+      },
+      {
+        "outletId": "GIP-C-011",
+        "name": "Wrogn",
+        "category": "Clothing",
+        "subcategory": "Youth Fashion",
+        "floor": "First Floor",
+        "shopNo": "F1-14",
+        "rating": 4.1,
+        "priceRange": "₹799-₹4000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0016",
+        "tags": [
+          "Youth",
+          "Casual",
+          "Men",
+          "Streetwear"
+        ]
+      },
+      {
+        "outletId": "GIP-C-012",
+        "name": "Raymond",
+        "category": "Clothing",
+        "subcategory": "Formal & Fabric",
+        "floor": "Second Floor",
+        "shopNo": "F2-04",
+        "rating": 4.2,
+        "priceRange": "₹2000-₹30000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0017",
+        "tags": [
+          "Suits",
+          "Blazers",
+          "Formal",
+          "Men",
+          "Tailoring"
+        ]
+      },
+      {
+        "outletId": "GIP-C-013",
+        "name": "Jockey Store",
+        "category": "Clothing",
+        "subcategory": "Innerwear & Loungewear",
+        "floor": "First Floor",
+        "shopNo": "F1-28",
+        "rating": 4.3,
+        "priceRange": "₹299-₹2000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-0029",
+        "tags": [
+          "Innerwear",
+          "Loungewear",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "GIP-S-001",
+        "name": "Nike",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-45",
+        "rating": 4.4,
+        "priceRange": "₹2500-₹18000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1001",
+        "tags": [
+          "Running",
+          "Air Max",
+          "Jordan",
+          "Sports",
+          "Sneakers"
+        ]
+      },
+      {
+        "outletId": "GIP-S-002",
+        "name": "Adidas",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-50",
+        "rating": 4.3,
+        "priceRange": "₹2000-₹15000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1002",
+        "tags": [
+          "Ultraboost",
+          "Stan Smith",
+          "Sports",
+          "Casual"
+        ]
+      },
+      {
+        "outletId": "GIP-S-003",
+        "name": "Puma",
+        "category": "Shoes",
+        "subcategory": "Sports",
+        "floor": "First Floor",
+        "shopNo": "F1-52",
+        "rating": 4.3,
+        "priceRange": "₹2000-₹12000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1003",
+        "tags": [
+          "Sports",
+          "Casual",
+          "Running",
+          "Suede"
+        ]
+      },
+      {
+        "outletId": "GIP-S-004",
+        "name": "Skechers",
+        "category": "Shoes",
+        "subcategory": "Comfort",
+        "floor": "First Floor",
+        "shopNo": "F1-54",
+        "rating": 4.2,
+        "priceRange": "₹2500-₹9000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1006",
+        "tags": [
+          "Comfort",
+          "Memory Foam",
+          "Men",
+          "Women",
+          "Kids"
+        ]
+      },
+      {
+        "outletId": "GIP-S-005",
+        "name": "Bata",
+        "category": "Shoes",
+        "subcategory": "General",
+        "floor": "Ground Floor",
+        "shopNo": "G-38",
+        "rating": 3.9,
+        "priceRange": "₹599-₹4000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1009",
+        "tags": [
+          "Formal",
+          "Casual",
+          "School",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "GIP-S-006",
+        "name": "Woodland",
+        "category": "Shoes",
+        "subcategory": "Outdoor",
+        "floor": "First Floor",
+        "shopNo": "F1-56",
+        "rating": 4.2,
+        "priceRange": "₹2500-₹10000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1008",
+        "tags": [
+          "Trekking",
+          "Boots",
+          "Outdoor",
+          "Waterproof"
+        ]
+      },
+      {
+        "outletId": "GIP-S-007",
+        "name": "Metro Shoes",
+        "category": "Shoes",
+        "subcategory": "Fashion Footwear",
+        "floor": "Ground Floor",
+        "shopNo": "G-40",
+        "rating": 4.0,
+        "priceRange": "₹999-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1010",
+        "tags": [
+          "Fashion",
+          "Heels",
+          "Sandals",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "GIP-S-008",
+        "name": "Mochi Shoes",
+        "category": "Shoes",
+        "subcategory": "Fashion Footwear",
+        "floor": "Ground Floor",
+        "shopNo": "G-42",
+        "rating": 4.2,
+        "priceRange": "₹1500-₹7000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1011",
+        "tags": [
+          "Fashion",
+          "Heels",
+          "Wedges",
+          "Women",
+          "Men"
+        ]
+      },
+      {
+        "outletId": "GIP-S-009",
+        "name": "Red Tape",
+        "category": "Shoes",
+        "subcategory": "Formal",
+        "floor": "Ground Floor",
+        "shopNo": "G-44",
+        "rating": 4.0,
+        "priceRange": "₹1499-₹6000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1013",
+        "tags": [
+          "Formal",
+          "Casual",
+          "Men",
+          "Leather",
+          "Oxford"
+        ]
+      },
+      {
+        "outletId": "GIP-S-010",
+        "name": "Khadim's",
+        "category": "Shoes",
+        "subcategory": "Affordable",
+        "floor": "Ground Floor",
+        "shopNo": "G-46",
+        "rating": 3.8,
+        "priceRange": "₹499-₹3000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-1014",
+        "tags": [
+          "Affordable",
+          "Casual",
+          "Kids",
+          "School",
+          "Sandals"
+        ]
+      },
+      {
+        "outletId": "GIP-S-011",
+        "name": "Shoe Repair Kiosk",
+        "category": "Shoes",
+        "subcategory": "Shoe Repair",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-SH-01",
+        "rating": 3.7,
+        "priceRange": "₹50-₹500",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Repair",
+          "Polish",
+          "Cobbler",
+          "Sole",
+          "Quick Fix"
+        ]
+      },
+      {
+        "outletId": "GIP-SH-001",
+        "name": "Croma",
+        "category": "Shopping",
+        "subcategory": "Electronics",
+        "floor": "Third Floor",
+        "shopNo": "F3-01",
+        "rating": 4.2,
+        "priceRange": "₹500-₹150000",
+        "timings": "10AM-10PM",
+        "phone": "1800-258-3636",
+        "tags": [
+          "Mobiles",
+          "Laptops",
+          "Appliances",
+          "Gadgets"
+        ]
+      },
+      {
+        "outletId": "GIP-SH-002",
+        "name": "Lifestyle Store",
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "floor": "Ground Floor",
+        "shopNo": "G-01",
+        "rating": 4.3,
+        "priceRange": "₹500-₹10000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-2025",
+        "tags": [
+          "Fashion",
+          "Accessories",
+          "Cosmetics",
+          "Home"
+        ]
+      },
+      {
+        "outletId": "GIP-SH-003",
+        "name": "Tanishq",
+        "category": "Shopping",
+        "subcategory": "Jewellery",
+        "floor": "Ground Floor",
+        "shopNo": "G-JEW-01",
+        "rating": 4.6,
+        "priceRange": "₹5000-₹500000",
+        "timings": "10AM-10PM",
+        "phone": "1800-266-0123",
+        "tags": [
+          "Gold",
+          "Diamond",
+          "Wedding",
+          "BIS"
+        ]
+      },
+      {
+        "outletId": "GIP-SH-004",
+        "name": "Nykaa",
+        "category": "Shopping",
+        "subcategory": "Beauty & Cosmetics",
+        "floor": "Ground Floor",
+        "shopNo": "G-20",
+        "rating": 4.3,
+        "priceRange": "₹200-₹10000",
+        "timings": "10AM-10PM",
+        "phone": "1800-267-9255",
+        "tags": [
+          "Makeup",
+          "Skincare",
+          "Haircare",
+          "Perfume"
+        ]
+      },
+      {
+        "outletId": "GIP-SH-005",
+        "name": "Miniso",
+        "category": "Shopping",
+        "subcategory": "Lifestyle & Gifts",
+        "floor": "Ground Floor",
+        "shopNo": "G-25",
+        "rating": 4.2,
+        "priceRange": "₹99-₹2000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-2010",
+        "tags": [
+          "Lifestyle",
+          "Gifts",
+          "Accessories",
+          "Cute",
+          "Affordable"
+        ]
+      },
+      {
+        "outletId": "GIP-SH-006",
+        "name": "Hamleys",
+        "category": "Shopping",
+        "subcategory": "Toys",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-01",
+        "rating": 4.4,
+        "priceRange": "₹200-₹20000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-2009",
+        "tags": [
+          "Toys",
+          "LEGO",
+          "Board Games",
+          "Soft Toys",
+          "Kids"
+        ]
+      },
+      {
+        "outletId": "GIP-SH-007",
+        "name": "Archies Gallery",
+        "category": "Shopping",
+        "subcategory": "Gifts & Cards",
+        "floor": "Ground Floor",
+        "shopNo": "G-30",
+        "rating": 3.9,
+        "priceRange": "₹100-₹3000",
+        "timings": "10AM-10PM",
+        "phone": "011-23456780",
+        "tags": [
+          "Greeting Cards",
+          "Soft Toys",
+          "Gifts",
+          "Birthday"
+        ]
+      },
+      {
+        "outletId": "GIP-SH-008",
+        "name": "VIP Luggage",
+        "category": "Shopping",
+        "subcategory": "Luggage & Travel",
+        "floor": "Third Floor",
+        "shopNo": "F3-10",
+        "rating": 4.1,
+        "priceRange": "₹2000-₹20000",
+        "timings": "10AM-10PM",
+        "phone": "1800-209-0030",
+        "tags": [
+          "Luggage",
+          "Trolley",
+          "Suitcase",
+          "Backpacks"
+        ]
+      },
+      {
+        "outletId": "GIP-SH-009",
+        "name": "Titan World",
+        "category": "Shopping",
+        "subcategory": "Watches",
+        "floor": "Ground Floor",
+        "shopNo": "G-48",
+        "rating": 4.4,
+        "priceRange": "₹3000-₹50000",
+        "timings": "10AM-10PM",
+        "phone": "1800-266-0123",
+        "tags": [
+          "Watches",
+          "Automatic",
+          "Smart",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "GIP-SH-010",
+        "name": "Phone Accessories Kiosk",
+        "category": "Shopping",
+        "subcategory": "Mobile Accessories",
+        "floor": "Ground Floor",
+        "shopNo": "G-KIOSK-MOB-01",
+        "rating": 3.7,
+        "priceRange": "₹100-₹2000",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Phone Cases",
+          "Chargers",
+          "Earphones",
+          "Screen Guard"
+        ]
+      },
+      {
+        "outletId": "GIP-ENT-001",
+        "name": "PVR INOX Cinemas",
+        "category": "Entertainment",
+        "subcategory": "Cinema",
+        "floor": "Fifth Floor",
+        "shopNo": "F5-CINEMA",
+        "rating": 4.4,
+        "priceRange": "₹200-₹800",
+        "timings": "9AM-12AM",
+        "phone": "011-39987777",
+        "tags": [
+          "Movies",
+          "IMAX",
+          "4DX",
+          "Multiplex",
+          "Cinema"
+        ]
+      },
+      {
+        "outletId": "GIP-ENT-002",
+        "name": "Fun City",
+        "category": "Entertainment",
+        "subcategory": "Gaming Zone",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-FUNCITY",
+        "rating": 4.0,
+        "priceRange": "₹100-₹500",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-3002",
+        "tags": [
+          "Arcade",
+          "Kids",
+          "Air Hockey",
+          "Tokens",
+          "Rides"
+        ]
+      },
+      {
+        "outletId": "GIP-ENT-003",
+        "name": "Smaaash",
+        "category": "Entertainment",
+        "subcategory": "Sports & Gaming",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-SMAAASH",
+        "rating": 4.2,
+        "priceRange": "₹200-₹1000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-3003",
+        "tags": [
+          "Cricket Sim",
+          "VR",
+          "Bowling",
+          "Archery",
+          "Groups"
+        ]
+      },
+      {
+        "outletId": "GIP-SVC-001",
+        "name": "HDFC Bank ATM",
+        "category": "Services",
+        "subcategory": "Banking",
+        "floor": "Ground Floor",
+        "shopNo": "G-ATM-01",
+        "rating": 3.9,
+        "priceRange": "Free",
+        "timings": "24 Hours",
+        "phone": "1800-258-3838",
+        "tags": [
+          "ATM",
+          "Cash",
+          "HDFC",
+          "24x7"
+        ]
+      },
+      {
+        "outletId": "GIP-SVC-002",
+        "name": "SBI ATM",
+        "category": "Services",
+        "subcategory": "Banking",
+        "floor": "First Floor",
+        "shopNo": "F1-ATM-01",
+        "rating": 3.7,
+        "priceRange": "Free",
+        "timings": "24 Hours",
+        "phone": "1800-425-3800",
+        "tags": [
+          "ATM",
+          "SBI",
+          "Government",
+          "24x7"
+        ]
+      },
+      {
+        "outletId": "GIP-SVC-003",
+        "name": "Lakme Salon",
+        "category": "Services",
+        "subcategory": "Salon",
+        "floor": "Third Floor",
+        "shopNo": "F3-SVC-01",
+        "rating": 4.1,
+        "priceRange": "₹500-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-4006",
+        "tags": [
+          "Hair",
+          "Makeup",
+          "Facial",
+          "Bridal",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "GIP-SVC-004",
+        "name": "Jawed Habib",
+        "category": "Services",
+        "subcategory": "Salon",
+        "floor": "Third Floor",
+        "shopNo": "F3-SVC-02",
+        "rating": 4.0,
+        "priceRange": "₹300-₹3000",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-4005",
+        "tags": [
+          "Haircut",
+          "Color",
+          "Beard",
+          "Men",
+          "Women"
+        ]
+      },
+      {
+        "outletId": "GIP-SVC-005",
+        "name": "Apollo Pharmacy",
+        "category": "Services",
+        "subcategory": "Pharmacy",
+        "floor": "Ground Floor",
+        "shopNo": "G-SVC-PHARM-01",
+        "rating": 4.3,
+        "priceRange": "₹10-₹2000",
+        "timings": "8AM-10PM",
+        "phone": "1800-419-1777",
+        "tags": [
+          "Medicines",
+          "OTC",
+          "Healthcare",
+          "Supplements"
+        ]
+      },
+      {
+        "outletId": "GIP-SVC-006",
+        "name": "Mobile Repair Kiosk",
+        "category": "Services",
+        "subcategory": "Mobile Repair",
+        "floor": "Second Floor",
+        "shopNo": "F2-KIOSK-REP-01",
+        "rating": 3.8,
+        "priceRange": "₹200-₹5000",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Screen Repair",
+          "Battery",
+          "Quick Fix",
+          "All Brands"
+        ]
+      },
+      {
+        "outletId": "GIP-SVC-007",
+        "name": "Kids Play Area",
+        "category": "Services",
+        "subcategory": "Kids Facility",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-KIDS-01",
+        "rating": 4.3,
+        "priceRange": "₹100-₹300",
+        "timings": "10AM-10PM",
+        "phone": "1800-1234-4017",
+        "tags": [
+          "Kids",
+          "Play",
+          "Toddler",
+          "Supervised"
+        ]
+      },
+      {
+        "outletId": "GIP-SVC-008",
+        "name": "Prayer Room",
+        "category": "Services",
+        "subcategory": "Facility",
+        "floor": "Fourth Floor",
+        "shopNo": "F4-PRAY-01",
+        "rating": 4.8,
+        "priceRange": "Free",
+        "timings": "10AM-10PM",
+        "phone": "N/A",
+        "tags": [
+          "Prayer",
+          "Namaz",
+          "Pooja",
+          "Religious"
+        ]
+      }
+    ]
+  }
+]
