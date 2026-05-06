@@ -1,7 +1,6 @@
 import { useState } from "react";
 import malls from "../data/malls.json";
 import MallCard from "../components/MallCard";
-
 const MallListPage = () => {
   const [city, setCity] = useState("All");
 
