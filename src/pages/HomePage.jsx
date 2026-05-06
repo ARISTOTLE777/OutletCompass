@@ -1,8 +1,6 @@
 import { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
-import malls from "../data/malls.json";
-import MallCard from "../components/MallCard";
-import "./HomePage.css"; // only if you use separate CSS file
+import malls from "../data";
 
 const HomePage = () => {
   const navigate = useNavigate();

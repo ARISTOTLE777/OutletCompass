@@ -18,7 +18,6 @@ function App() {
   return (
     <BrowserRouter>
       <div className="app-wrapper">
-        
         {/* Navbar */}
         <Navbar />
 
@@ -37,7 +36,6 @@ function App() {
 
         {/* Footer */}
         <Footer />
-
       </div>
     </BrowserRouter>
   );
