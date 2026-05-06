@@ -11,10 +11,11 @@ export default function filterOutlets(malls, query, category) {
       // Query filter
       if (searchQuery !== "") {
         const combinedFields = `
-          ${outlet.name}
-          ${outlet.category}
-          ${outlet.subcategory}
-          ${outlet.tags.join(" ")}
+          ${outlet.name || ""}
+          ${mall.name || ""}
+          ${outlet.category || ""}
+          ${outlet.subcategory || ""}
+          ${(outlet.tags || []).join(" ")}
         `.toLowerCase();
 
         matchesQuery = combinedFields.includes(searchQuery);
