@@ -1,4 +1,13 @@
 import React from 'react';
-export default function Footer(props) {
-  return <div className="Footer">Footer</div>;
+function Footer() {
+  return (
+    <footer className="footer">
+      <div className="footer-inner">
+        <span className="footer-brand">OutletCompass</span>
+        <span>Made by Labhansh, Aarabdh, Aditya</span>
+      </div>
+    </footer>
+  );
 }
+
+export default Footer;

@@ -1,4 +1,6 @@
 import React from 'react';
-export default function TagBadge(props) {
-  return <div className="TagBadge">TagBadge</div>;
+function TagBadge({ text }) {
+  return <span className="tag-badge">{text}</span>;
 }
+
+export default TagBadge;

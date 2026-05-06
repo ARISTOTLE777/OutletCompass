@@ -1,4 +1,10 @@
 import React from 'react';
-export default function Loader(props) {
-  return <div className="Loader">Loader</div>;
+function Loader() {
+  return (
+    <div className="loader-wrapper">
+      <div className="spinner"></div>
+    </div>
+  );
 }
+
+export default Loader;

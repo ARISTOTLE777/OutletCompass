@@ -106,3 +106,202 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 .not-found h1 { font-size: 96px; color: var(--accent); font-weight: 700; line-height: 1; }
 .not-found p { color: var(--text-2); font-size: 18px; }
 .not-found a { margin-top: 12px; }
+/* ===== TagBadge ===== */
+.tag-badge {
+  display: inline-block;
+  font-size: 11px;
+  padding: 3px 9px;
+  border-radius: 20px;
+  background: rgba(232, 162, 58, 0.1);
+  color: var(--accent);
+  border: 1px solid rgba(232, 162, 58, 0.25);
+  font-weight: 500;
+}
+
+/* ===== Loader ===== */
+.loader-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px;
+}
+.spinner {
+  width: 36px;
+  height: 36px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ===== BackButton ===== */
+.back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 16px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text-2);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  background: transparent;
+  margin-bottom: 24px;
+  transition: 0.15s;
+}
+.back-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* ===== Footer ===== */
+.footer {
+  padding: 28px 0;
+  border-top: 1px solid var(--border);
+  margin-top: auto;
+}
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--text-3);
+  font-size: 13px;
+}
+.footer-brand {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* ===== Navbar ===== */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(13, 13, 13, 0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+}
+.navbar-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.navbar-logo {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: -0.3px;
+}
+.navbar-links {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+}
+.navbar-links a {
+  color: var(--text-2);
+  font-size: 14px;
+  font-weight: 500;
+  transition: 0.15s;
+}
+.navbar-links a:hover {
+  color: var(--text-1);
+}
+.navbar-search {
+  display: flex;
+  align-items: center;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 14px;
+  gap: 8px;
+}
+.navbar-search input {
+  background: transparent;
+  border: none;
+  color: var(--text-1);
+  font-size: 13px;
+  width: 180px;
+  outline: none;
+}
+
+/* ===== MallCard ===== */
+.mall-card {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-decoration: none;
+  display: block;
+}
+.mall-card-name {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text-1);
+}
+.mall-card-location {
+  font-size: 13px;
+  color: var(--text-2);
+}
+.mall-card-meta {
+  display: flex;
+  gap: 14px;
+  margin-top: 8px;
+}
+.mall-card-meta span {
+  font-size: 13px;
+  color: var(--text-3);
+}
+.mall-card-rating {
+  color: var(--accent) !important;
+  font-weight: 600;
+}
+
+/* ===== OutletCard ===== */
+.outlet-card {
+  padding: 20px;
+  display: block;
+  text-decoration: none;
+}
+.outlet-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+.outlet-card-name {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text-1);
+}
+.outlet-card-category {
+  font-size: 11px;
+  padding: 3px 9px;
+  border-radius: 20px;
+  background: rgba(232, 162, 58, 0.1);
+  color: var(--accent);
+}
+.outlet-card-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 13px;
+  color: var(--text-2);
+  margin: 8px 0;
+}
+.outlet-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+.outlet-card-mall {
+  font-size: 11px;
+  color: var(--text-3);
+  margin-top: 10px;
+}
