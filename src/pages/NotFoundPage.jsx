@@ -6,12 +6,7 @@ const NotFoundPage = () => {
  
       <h1>404</h1>
       <p>Oops! The page you are looking for does not exist.</p>
- 
-      {/* Link takes the user back to the home page */}
-      <Link to="/" className="btn">
-        Go Back Home
-      </Link>
- 
+      <Link to="/" className="btn">Go Back Home</Link>
     </div>
   );
 };

@@ -1,32 +1,31 @@
 import { useState, useEffect } from "react";
-import { useParams } from "react-router-dom"; // reads the category name from the URL
+import { useParams } from "react-router-dom"; 
 import malls from "../data/malls.json";
 import OutletCard from "../components/OutletCard";
 import BackButton from "../components/BackButton";
  
 const CategoryPage = () => {
  
-  // useParams reads the URL. E.g. /category/Food gives us categoryName = "Food"
+
   const { categoryName } = useParams();
  
-  // useState: stores the list of outlets that match this category
+  
   const [outlets, setOutlets] = useState([]); // starts as an empty array
  
-  // useEffect: runs the code inside whenever categoryName changes
-  // (i.e. every time the user visits a different category page)
+  
   useEffect(() => {
  
-    const result = []; // temporary list to collect matching outlets
+    const result = []; 
  
-    // Loop through every mall → every outlet inside that mall
+    
     malls.forEach((mall) => {
       mall.outlets.forEach((outlet) => {
  
-        // If this outlet's category matches the one in the URL, add it to our list
+     
         if (outlet.category === categoryName) {
           result.push({
-            ...outlet,         // copy all outlet properties
-            mallName: mall.name, // also save which mall it belongs to
+            ...outlet,         
+            mallName: mall.name,
             mallId: mall.id,
           });
         }
@@ -34,9 +33,9 @@ const CategoryPage = () => {
       });
     });
  
-    setOutlets(result); // save the collected outlets into state
+    setOutlets(result); 
  
-  }, [categoryName]); // re-run this effect when categoryName changes
+  }, [categoryName]); 
  
   return (
     <div className="category-page container">

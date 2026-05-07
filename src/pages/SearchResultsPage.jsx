@@ -1,29 +1,27 @@
 import { useState, useEffect } from "react";
-import { useSearchParams } from "react-router-dom"; // reads ?q=... from the URL
+import { useSearchParams } from "react-router-dom"; 
 import malls from "../data/malls.json";
 import filterOutlets from "../utils/filterOutlets";
 import OutletCard from "../components/OutletCard";
  
 const SearchResultsPage = () => {
  
-  // useSearchParams reads the query string part of the URL
-  // E.g. for /search?q=pizza, searchParams.get("q") returns "pizza"
+  
   const [searchParams] = useSearchParams();
-  const query = searchParams.get("q") || ""; // if there's no "q", default to empty string
+  const query = searchParams.get("q") || ""; 
  
-  // useState: stores the list of outlets that match the search query
-  const [results, setResults] = useState([]); // starts as an empty array
+  
+  const [results, setResults] = useState([]); 
  
-  // useEffect: runs the search whenever the query changes
+  
   useEffect(() => {
  
-    // filterOutlets is a helper function we wrote in /utils/filterOutlets.js
-    // It goes through all malls and returns outlets that match the query
+    
     const filtered = filterOutlets(malls, query, "All");
  
-    setResults(filtered); // save results into state
+    setResults(filtered); 
  
-  }, [query]); // re-run when the search query changes
+  }, [query]); 
  
   return (
     <div className="search-page">
@@ -38,7 +36,7 @@ const SearchResultsPage = () => {
         {/* ── RESULTS or NO-RESULTS message ── */}
         {results.length > 0 ? (
  
-          // Show a card for each matching outlet
+         
           <div className="outlet-grid">
             {results.map((outlet) => (
               <div key={outlet.id}>
@@ -52,7 +50,7 @@ const SearchResultsPage = () => {
  
         ) : (
  
-          // Show this when nothing was found
+         
           <div className="no-results">
             <p>No results found for "{query}"</p>
             <span>Try searching something else</span>

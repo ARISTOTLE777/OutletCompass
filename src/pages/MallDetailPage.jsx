@@ -6,30 +6,27 @@ import BackButton from "../components/BackButton";
  
 const MallDetailPage = () => {
  
-  // useParams reads the URL. E.g. if the URL is /mall/3, then mallId = "3"
+  
   const { mallId } = useParams();
  
-  // Find the mall in our data whose id matches the URL parameter
-  // Number(mallId) converts the string "3" to the number 3 for comparison
+  
   const mall = malls.find((m) => m.id === Number(mallId));
  
-  // useState: tracks which category filter the user has selected
+  
   const [activeCategory, setActiveCategory] = useState("All");
  
-  // If no mall was found, show a simple message
+  
   if (!mall) {
     return <p style={{ padding: "40px" }}>Mall not found</p>;
   }
  
-  // Filter the outlets of this mall:
-  // If "All" is selected → show every outlet
-  // Otherwise           → show only outlets matching the selected category
+  
   const filteredOutlets =
     activeCategory === "All"
       ? mall.outlets
       : mall.outlets.filter((o) => o.category === activeCategory);
  
-  // The list of category buttons to display
+ 
   const categories = ["All", "Food", "Clothing", "Shoes", "Shopping", "Services", "Entertainment"];
  
   return (
@@ -54,8 +51,8 @@ const MallDetailPage = () => {
         {categories.map((cat) => (
           <button
             key={cat}
-            className={`filter-btn ${activeCategory === cat ? "active" : ""}`} // highlight active
-            onClick={() => setActiveCategory(cat)}                               // update state
+            className={`filter-btn ${activeCategory === cat ? "active" : ""}`} 
+            onClick={() => setActiveCategory(cat)}                               
           >
             {cat}
           </button>

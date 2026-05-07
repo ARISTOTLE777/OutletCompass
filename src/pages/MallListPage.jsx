@@ -1,16 +1,13 @@
 import { useState } from "react";
-import malls from "../data/malls.json"; // all our mall data
+import malls from "../data/malls.json"; 
 import MallCard from "../components/MallCard";
  
 const MallListPage = () => {
  
-  // useState: tracks which city filter the user has selected
-  // "All" means show every mall (no filter applied)
+  
   const [city, setCity] = useState("All");
  
-  // Filter the malls array:
-  // If city is "All" → keep every mall
-  // Otherwise        → keep only malls whose city matches the selected city
+  
   const filteredMalls = malls.filter((m) => city === "All" || m.city === city);
  
   return (
@@ -27,8 +24,8 @@ const MallListPage = () => {
         {["All", "Noida", "Ghaziabad"].map((c) => (
           <button
             key={c}
-            className={`filter-btn ${city === c ? "active" : ""}`} // highlight the active button
-            onClick={() => setCity(c)}                               // update state when clicked
+            className={`filter-btn ${city === c ? "active" : ""}`} 
+            onClick={() => setCity(c)}                               
           >
             {c}
           </button>

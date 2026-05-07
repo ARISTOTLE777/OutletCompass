@@ -1,46 +1,46 @@
 import { useState, useEffect } from "react";
-import { useParams, Link } from "react-router-dom"; // useParams → reads outletId from URL
+import { useParams, Link } from "react-router-dom"; 
 import malls from "../data/malls.json";
 import BackButton from "../components/BackButton";
 import TagBadge from "../components/TagBadge";
  
 const OutletDetailPage = () => {
  
-  // useParams reads the URL. E.g. /outlet/O-123 gives us outletId = "O-123"
+
   const { outletId } = useParams();
  
-  // useState: stores the outlet object once we find it
-  const [outlet, setOutlet] = useState(null); // null = not found yet
+  
+  const [outlet, setOutlet] = useState(null); 
  
-  // useState: stores the mall that contains this outlet
+  
   const [parentMall, setParentMall] = useState(null);
  
-  // useEffect: search through all malls/outlets whenever the outletId changes
+  
   useEffect(() => {
  
-    let foundOutlet = null; // will hold the matching outlet
-    let foundMall = null;   // will hold the mall it belongs to
+    let foundOutlet = null; 
+    let foundMall = null;   
  
-    // Loop through every mall → every outlet inside that mall
+  
     malls.forEach((mall) => {
       mall.outlets.forEach((o) => {
  
-        // Check if this outlet's outletId matches the one in the URL
+    
         if (o.outletId === outletId) {
-          foundOutlet = o;   // save the outlet
-          foundMall = mall;  // save its mall
+          foundOutlet = o;   
+          foundMall = mall;  
         }
  
       });
     });
  
-    // Save both values into state so the UI can display them
+    
     setOutlet(foundOutlet);
     setParentMall(foundMall);
  
-  }, [outletId]); // re-run if outletId ever changes
+  }, [outletId]);
  
-  // If outlet is still null, show a loading / not found message
+  
   if (!outlet) {
     return <p style={{ padding: "40px" }}>Loading or Outlet not found</p>;
   }
